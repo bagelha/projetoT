@@ -1,0 +1,130 @@
+idfrom;from;idto;to;intensity
+260001;Recife;260003;Palmares;2
+260001;Recife;260004;Limoeiro;2
+260001;Recife;260018;Escada - Ribeirão;2
+260001;Recife;260002;Goiana – Timbaúba;3
+260001;Recife;260005;Vitória de Santo Antão;4
+260001;Recife;260009;Caruaru;4
+260001;Recife;260007;Barreiros - Sirinhaém;6
+260001;Recife;260006;Carpina;7
+260001;Recife;260001;Recife;47
+260002;Goiana – Timbaúba;260008;Surubim;1
+260002;Goiana – Timbaúba;260004;Limoeiro;4
+260002;Goiana – Timbaúba;260009;Caruaru;7
+260002;Goiana – Timbaúba;260001;Recife;16
+260002;Goiana – Timbaúba;260006;Carpina;17
+260002;Goiana – Timbaúba;260002;Goiana – Timbaúba;32
+260003;Palmares;260007;Barreiros - Sirinhaém;3
+260003;Palmares;260005;Vitória de Santo Antão;5
+260003;Palmares;260018;Escada - Ribeirão;5
+260003;Palmares;260010;Garanhuns;8
+260003;Palmares;260001;Recife;14
+260003;Palmares;260003;Palmares;18
+260003;Palmares;260009;Caruaru;24
+260004;Limoeiro;260016;Araripina;1
+260004;Limoeiro;260002;Goiana – Timbaúba;3
+260004;Limoeiro;260008;Surubim;4
+260004;Limoeiro;260005;Vitória de Santo Antão;7
+260004;Limoeiro;260004;Limoeiro;14
+260004;Limoeiro;260009;Caruaru;14
+260004;Limoeiro;260006;Carpina;16
+260004;Limoeiro;260001;Recife;18
+260005;Vitória de Santo Antão;260004;Limoeiro;3
+260005;Vitória de Santo Antão;260006;Carpina;3
+260005;Vitória de Santo Antão;260005;Vitória de Santo Antão;6
+260005;Vitória de Santo Antão;260009;Caruaru;10
+260005;Vitória de Santo Antão;260001;Recife;14
+260006;Carpina;260015;Petrolina;1
+260006;Carpina;260016;Araripina;1
+260006;Carpina;260005;Vitória de Santo Antão;3
+260006;Carpina;260009;Caruaru;6
+260006;Carpina;260004;Limoeiro;8
+260006;Carpina;260002;Goiana – Timbaúba;10
+260006;Carpina;260006;Carpina;16
+260006;Carpina;260001;Recife;22
+260007;Barreiros - Sirinhaém;260016;Araripina;1
+260007;Barreiros - Sirinhaém;260009;Caruaru;5
+260007;Barreiros - Sirinhaém;260003;Palmares;8
+260007;Barreiros - Sirinhaém;260001;Recife;15
+260007;Barreiros - Sirinhaém;260007;Barreiros - Sirinhaém;18
+260008;Surubim;260005;Vitória de Santo Antão;2
+260008;Surubim;260006;Carpina;4
+260008;Surubim;260001;Recife;7
+260008;Surubim;260004;Limoeiro;8
+260008;Surubim;260008;Surubim;9
+260008;Surubim;260009;Caruaru;20
+260009;Caruaru;260018;Escada - Ribeirão;1
+260009;Caruaru;260004;Limoeiro;2
+260009;Caruaru;260007;Barreiros - Sirinhaém;2
+260009;Caruaru;260012;Belo Jardim – Pesqueira;3
+260009;Caruaru;260003;Palmares;4
+260009;Caruaru;260010;Garanhuns;4
+260009;Caruaru;260016;Araripina;4
+260009;Caruaru;260005;Vitória de Santo Antão;6
+260009;Caruaru;260001;Recife;11
+260009;Caruaru;260009;Caruaru;40
+260010;Garanhuns;260016;Araripina;3
+260010;Garanhuns;260012;Belo Jardim – Pesqueira;6
+260010;Garanhuns;260011;Arcoverde;9
+260010;Garanhuns;260001;Recife;11
+260010;Garanhuns;260009;Caruaru;15
+260010;Garanhuns;260010;Garanhuns;33
+260011;Arcoverde;260012;Belo Jardim – Pesqueira;2
+260011;Arcoverde;260017;Salgueiro;2
+260011;Arcoverde;260015;Petrolina;3
+260011;Arcoverde;260001;Recife;9
+260011;Arcoverde;260009;Caruaru;11
+260011;Arcoverde;260010;Garanhuns;11
+260011;Arcoverde;260013;Serra Talhada;12
+260011;Arcoverde;260011;Arcoverde;27
+260012;Belo Jardim – Pesqueira;260017;Salgueiro;1
+260012;Belo Jardim – Pesqueira;260013;Serra Talhada;2
+260012;Belo Jardim – Pesqueira;260007;Barreiros - Sirinhaém;3
+260012;Belo Jardim – Pesqueira;260001;Recife;9
+260012;Belo Jardim – Pesqueira;260010;Garanhuns;9
+260012;Belo Jardim – Pesqueira;260011;Arcoverde;9
+260012;Belo Jardim – Pesqueira;260009;Caruaru;17
+260012;Belo Jardim – Pesqueira;260012;Belo Jardim – Pesqueira;19
+260013;Serra Talhada;260015;Petrolina;5
+260013;Serra Talhada;260014;Afogados da Ingazeira;6
+260013;Serra Talhada;260011;Arcoverde;7
+260013;Serra Talhada;260017;Salgueiro;7
+260013;Serra Talhada;260001;Recife;9
+260013;Serra Talhada;260009;Caruaru;12
+260013;Serra Talhada;260013;Serra Talhada;31
+260014;Afogados da Ingazeira;260005;Vitória de Santo Antão;1
+260014;Afogados da Ingazeira;260010;Garanhuns;1
+260014;Afogados da Ingazeira;260015;Petrolina;1
+260014;Afogados da Ingazeira;260017;Salgueiro;1
+260014;Afogados da Ingazeira;260001;Recife;7
+260014;Afogados da Ingazeira;260011;Arcoverde;9
+260014;Afogados da Ingazeira;260013;Serra Talhada;12
+260014;Afogados da Ingazeira;260009;Caruaru;16
+260014;Afogados da Ingazeira;260014;Afogados da Ingazeira;29
+260015;Petrolina;260007;Barreiros - Sirinhaém;1
+260015;Petrolina;260016;Araripina;4
+260015;Petrolina;260009;Caruaru;5
+260015;Petrolina;260001;Recife;6
+260015;Petrolina;260017;Salgueiro;11
+260015;Petrolina;260015;Petrolina;16
+260016;Araripina;260013;Serra Talhada;2
+260016;Araripina;260009;Caruaru;3
+260016;Araripina;260001;Recife;8
+260016;Araripina;260017;Salgueiro;8
+260016;Araripina;260015;Petrolina;16
+260016;Araripina;260016;Araripina;40
+260017;Salgueiro;260011;Arcoverde;1
+260017;Salgueiro;260009;Caruaru;7
+260017;Salgueiro;260001;Recife;9
+260017;Salgueiro;260016;Araripina;9
+260017;Salgueiro;260013;Serra Talhada;12
+260017;Salgueiro;260015;Petrolina;15
+260017;Salgueiro;260017;Salgueiro;24
+260018;Escada - Ribeirão;260006;Carpina;1
+260018;Escada - Ribeirão;260007;Barreiros - Sirinhaém;1
+260018;Escada - Ribeirão;260016;Araripina;1
+260018;Escada - Ribeirão;260005;Vitória de Santo Antão;4
+260018;Escada - Ribeirão;260003;Palmares;10
+260018;Escada - Ribeirão;260018;Escada - Ribeirão;11
+260018;Escada - Ribeirão;260009;Caruaru;14
+260018;Escada - Ribeirão;260001;Recife;16

@@ -1,0 +1,1681 @@
+MUN_OR;NOME_ORIGEM;HIERAR_CID;MUN_DEST;NOME_DESTINO;HIERAR_CID_D
+2600054;Abreu e Lima;1C;2611606;Recife;1C
+2600054;Abreu e Lima;1C;2610707;Paulista;1C
+2600054;Abreu e Lima;1C;2609600;Olinda;1C
+2600054;Abreu e Lima;1C;2606200;Goiana;3B
+2600054;Abreu e Lima;1C;2606804;Igarassu;1C
+2600054;Abreu e Lima;1C;2613701;São Lourenço da Mata;1C
+2600104;Afogados da Ingazeira;3B;2611606;Recife;1C
+2600104;Afogados da Ingazeira;3B;2604106;Caruaru;2B
+2600104;Afogados da Ingazeira;3B;2613909;Serra Talhada;3A
+2600104;Afogados da Ingazeira;3B;2614600;Tabira;4B
+2600104;Afogados da Ingazeira;3B;2601201;Arcoverde;3A
+2600104;Afogados da Ingazeira;3B;2613602;São José do Egito;4B
+2600104;Afogados da Ingazeira;3B;2603900;Carnaíba;5
+2600104;Afogados da Ingazeira;3B;2612505;Santa Cruz do Capibaribe;3B
+2600104;Afogados da Ingazeira;3B;2606903;Iguaracy;5
+2600104;Afogados da Ingazeira;3B;2605608;Flores;5
+2600104;Afogados da Ingazeira;3B;2615706;Triunfo;5
+2600104;Afogados da Ingazeira;3B;2615409;Toritama;5
+2600104;Afogados da Ingazeira;3B;2606002;Garanhuns;2C
+2600104;Afogados da Ingazeira;3B;2612208;Salgueiro;3B
+2600104;Afogados da Ingazeira;3B;2611101;Petrolina;2C
+2600203;Afrânio;5;2611101;Petrolina;2C
+2600203;Afrânio;5;2611606;Recife;1C
+2600203;Afrânio;5;2605152;Dormentes;5
+2600302;Agrestina;5;2604106;Caruaru;2B
+2600302;Agrestina;5;2611606;Recife;1C
+2600302;Agrestina;5;2605004;Cupira;5
+2600302;Agrestina;5;2600807;Altinho;5
+2600302;Agrestina;5;2613305;São Joaquim do Monte;5
+2600302;Agrestina;5;2604205;Catende;5
+2600302;Agrestina;5;2601706;Belo Jardim;3B
+2600302;Agrestina;5;2601508;Belém de Maria;5
+2600302;Agrestina;5;2606002;Garanhuns;2C
+2600401;Água Preta;5;2611606;Recife;1C
+2600401;Água Preta;5;2610004;Palmares;3B
+2600401;Água Preta;5;2604106;Caruaru;2B
+2600401;Água Preta;5;2614857;Tamandaré;5
+2600401;Água Preta;5;2601409;Barreiros;4A
+2600401;Água Preta;5;2613404;São José da Coroa Grande;5
+2600401;Água Preta;5;2604205;Catende;5
+2600401;Água Preta;5;2616407;Vitória de Santo Antão;3B
+2600401;Água Preta;5;2615409;Toritama;5
+2600401;Água Preta;5;2606002;Garanhuns;2C
+2600500;Águas Belas;5;2606002;Garanhuns;2C
+2600500;Águas Belas;5;2611606;Recife;1C
+2600500;Águas Belas;5;2601201;Arcoverde;3A
+2600500;Águas Belas;5;2607505;Itaíba;5
+2600500;Águas Belas;5;2604106;Caruaru;2B
+2600609;Alagoinha;5;2610905;Pesqueira;4A
+2600609;Alagoinha;5;2611606;Recife;1C
+2600609;Alagoinha;5;2601201;Arcoverde;3A
+2600609;Alagoinha;5;2604106;Caruaru;2B
+2600609;Alagoinha;5;2616001;Venturosa;5
+2600609;Alagoinha;5;2601706;Belo Jardim;3B
+2600609;Alagoinha;5;2612505;Santa Cruz do Capibaribe;3B
+2600609;Alagoinha;5;2602803;Buíque;5
+2600708;Aliança;5;2611606;Recife;1C
+2600708;Aliança;5;2615300;Timbaúba;3B
+2600708;Aliança;5;2606200;Goiana;3B
+2600708;Aliança;5;2604007;Carpina;3B
+2600708;Aliança;5;2609501;Nazaré da Mata;5
+2600708;Aliança;5;2615508;Tracunhaém;5
+2600708;Aliança;5;2604106;Caruaru;2B
+2600708;Aliança;5;2614501;Surubim;3B
+2600708;Aliança;5;2607653;Itambé;5
+2600708;Aliança;5;2608909;Limoeiro;3B
+2600807;Altinho;5;2604106;Caruaru;2B
+2600807;Altinho;5;2611606;Recife;1C
+2600807;Altinho;5;2600302;Agrestina;5
+2600807;Altinho;5;2606002;Garanhuns;2C
+2600807;Altinho;5;2606705;Ibirajuba;5
+2600807;Altinho;5;2605004;Cupira;5
+2600906;Amaraji;5;2611606;Recife;1C
+2600906;Amaraji;5;2605202;Escada;3B
+2600906;Amaraji;5;2616407;Vitória de Santo Antão;3B
+2600906;Amaraji;5;2606408;Gravatá;4A
+2600906;Amaraji;5;2604106;Caruaru;2B
+2600906;Amaraji;5;2611408;Primavera;5
+2600906;Amaraji;5;2602902;Cabo de Santo Agostinho;1C
+2600906;Amaraji;5;2610004;Palmares;3B
+2600906;Amaraji;5;2604502;Chã Grande;5
+2600906;Amaraji;5;2609402;Moreno;1C
+2600906;Amaraji;5;2604007;Carpina;3B
+2600906;Amaraji;5;2611804;Ribeirão;5
+2601003;Angelim;5;2606002;Garanhuns;2C
+2601003;Angelim;5;2611606;Recife;1C
+2601003;Angelim;5;2603702;Canhotinho;5
+2601003;Angelim;5;2604106;Caruaru;2B
+2601003;Angelim;5;2613206;São João;5
+2601003;Angelim;5;2610103;Palmeirina;5
+2601003;Angelim;5;2611507;Quipapá;5
+2601003;Angelim;5;2612455;Santa Cruz;5
+2601052;Araçoiaba;1C;2611606;Recife;1C
+2601052;Araçoiaba;1C;2604007;Carpina;3B
+2601052;Araçoiaba;1C;2606804;Igarassu;1C
+2601052;Araçoiaba;1C;2610707;Paulista;1C
+2601052;Araçoiaba;1C;2600054;Abreu e Lima;1C
+2601052;Araçoiaba;1C;2609600;Olinda;1C
+2601052;Araçoiaba;1C;2613701;São Lourenço da Mata;1C
+2601052;Araçoiaba;1C;2607752;Itapissuma;1C
+2601052;Araçoiaba;1C;2610608;Paudalho;1C
+2601052;Araçoiaba;1C;2608909;Limoeiro;3B
+2601052;Araçoiaba;1C;2609501;Nazaré da Mata;5
+2601052;Araçoiaba;1C;2615508;Tracunhaém;5
+2601052;Araçoiaba;1C;2603454;Camaragibe;1C
+2601102;Araripina;3B;2611606;Recife;1C
+2601102;Araripina;3B;2611101;Petrolina;2C
+2601102;Araripina;3B;2609907;Ouricuri;3A
+2601102;Araripina;3B;2615607;Trindade;5
+2601102;Araripina;3B;2612455;Santa Cruz;5
+2601102;Araripina;3B;2604106;Caruaru;2B
+2601201;Arcoverde;3A;2611606;Recife;1C
+2601201;Arcoverde;3A;2604106;Caruaru;2B
+2601201;Arcoverde;3A;2606002;Garanhuns;2C
+2601201;Arcoverde;3A;2613909;Serra Talhada;3A
+2601201;Arcoverde;3A;2610905;Pesqueira;4A
+2601201;Arcoverde;3A;2610806;Pedra;5
+2601201;Arcoverde;3A;2616001;Venturosa;5
+2601201;Arcoverde;3A;2606408;Gravatá;4A
+2601201;Arcoverde;3A;2602803;Buíque;5
+2601201;Arcoverde;3A;2611101;Petrolina;2C
+2601300;Barra de Guabiraba;5;2604106;Caruaru;2B
+2601300;Barra de Guabiraba;5;2611606;Recife;1C
+2601300;Barra de Guabiraba;5;2602308;Bonito;5
+2601300;Barra de Guabiraba;5;2601904;Bezerros;5
+2601300;Barra de Guabiraba;5;2610004;Palmares;3B
+2601300;Barra de Guabiraba;5;2603504;Camocim de São Félix;5
+2601300;Barra de Guabiraba;5;2604809;Cortês;5
+2601300;Barra de Guabiraba;5;2612000;Sairé;5
+2601300;Barra de Guabiraba;5;2612455;Santa Cruz;5
+2601300;Barra de Guabiraba;5;2615409;Toritama;5
+2601300;Barra de Guabiraba;5;2606408;Gravatá;4A
+2601300;Barra de Guabiraba;5;2616407;Vitória de Santo Antão;3B
+2601409;Barreiros;4A;2611606;Recife;1C
+2601409;Barreiros;4A;2614857;Tamandaré;5
+2601409;Barreiros;4A;2610004;Palmares;3B
+2601409;Barreiros;4A;2611903;Rio Formoso;5
+2601409;Barreiros;4A;2613404;São José da Coroa Grande;5
+2601409;Barreiros;4A;2600401;Água Preta;5
+2601409;Barreiros;4A;2614204;Sirinhaém;5
+2601508;Belém de Maria;5;2611606;Recife;1C
+2601508;Belém de Maria;5;2604106;Caruaru;2B
+2601508;Belém de Maria;5;2610004;Palmares;3B
+2601508;Belém de Maria;5;2605004;Cupira;5
+2601508;Belém de Maria;5;2604205;Catende;5
+2601508;Belém de Maria;5;2615409;Toritama;5
+2601508;Belém de Maria;5;2600302;Agrestina;5
+2601508;Belém de Maria;5;2602308;Bonito;5
+2601508;Belém de Maria;5;2610202;Panelas;5
+2601508;Belém de Maria;5;2608701;Lagoa dos Gatos;5
+2601607;Belém do São Francisco;5;2611101;Petrolina;2C
+2601607;Belém do São Francisco;5;2611606;Recife;1C
+2601607;Belém do São Francisco;5;2612208;Salgueiro;3B
+2601607;Belém do São Francisco;5;2605707;Floresta;4B
+2601607;Belém do São Francisco;5;2603009;Cabrobó;5
+2601607;Belém do São Francisco;5;2612604;Santa Maria da Boa Vista;5
+2601607;Belém do São Francisco;5;2607406;Itacuruba;5
+2601607;Belém do São Francisco;5;2613909;Serra Talhada;3A
+2601607;Belém do São Francisco;5;2615409;Toritama;5
+2601706;Belo Jardim;3B;2604106;Caruaru;2B
+2601706;Belo Jardim;3B;2611606;Recife;1C
+2601706;Belo Jardim;3B;2610905;Pesqueira;4A
+2601706;Belo Jardim;3B;2606002;Garanhuns;2C
+2601706;Belo Jardim;3B;2612505;Santa Cruz do Capibaribe;3B
+2601706;Belo Jardim;3B;2615409;Toritama;5
+2601706;Belo Jardim;3B;2612406;Sanharó;5
+2601706;Belo Jardim;3B;2614709;Tacaimbó;5
+2601706;Belo Jardim;3B;2613008;São Bento do Una;5
+2601706;Belo Jardim;3B;2601201;Arcoverde;3A
+2601706;Belo Jardim;3B;2609600;Olinda;1C
+2601805;Betânia;5;2613909;Serra Talhada;3A
+2601805;Betânia;5;2611606;Recife;1C
+2601805;Betânia;5;2601201;Arcoverde;3A
+2601805;Betânia;5;2605103;Custódia;5
+2601805;Betânia;5;2604106;Caruaru;2B
+2601805;Betânia;5;2611101;Petrolina;2C
+2601805;Betânia;5;2605608;Flores;5
+2601904;Bezerros;5;2604106;Caruaru;2B
+2601904;Bezerros;5;2611606;Recife;1C
+2601904;Bezerros;5;2606408;Gravatá;4A
+2601904;Bezerros;5;2616407;Vitória de Santo Antão;3B
+2601904;Bezerros;5;2612000;Sairé;5
+2602001;Bodocó;5;2609907;Ouricuri;3A
+2602001;Bodocó;5;2611606;Recife;1C
+2602001;Bodocó;5;2601102;Araripina;3B
+2602001;Bodocó;5;2611101;Petrolina;2C
+2602001;Bodocó;5;2605301;Exu;5
+2602001;Bodocó;5;2612208;Salgueiro;3B
+2602001;Bodocó;5;2607307;Ipubi;5
+2602001;Bodocó;5;2608750;Lagoa Grande;5
+2602001;Bodocó;5;2606309;Granito;5
+2602100;Bom Conselho;5;2606002;Garanhuns;2C
+2602100;Bom Conselho;5;2611606;Recife;1C
+2602100;Bom Conselho;5;2604106;Caruaru;2B
+2602100;Bom Conselho;5;2602407;Brejão;5
+2602100;Bom Conselho;5;2615102;Terezinha;5
+2602209;Bom Jardim;5;2611606;Recife;1C
+2602209;Bom Jardim;5;2614501;Surubim;3B
+2602209;Bom Jardim;5;2608909;Limoeiro;3B
+2602209;Bom Jardim;5;2604007;Carpina;3B
+2602209;Bom Jardim;5;2616407;Vitória de Santo Antão;3B
+2602209;Bom Jardim;5;2609709;Orobó;5
+2602209;Bom Jardim;5;2613701;São Lourenço da Mata;1C
+2602209;Bom Jardim;5;2609501;Nazaré da Mata;5
+2602209;Bom Jardim;5;2608107;João Alfredo;5
+2602209;Bom Jardim;5;2604106;Caruaru;2B
+2602209;Bom Jardim;5;2603454;Camaragibe;1C
+2602209;Bom Jardim;5;2608453;Lagoa do Carro;5
+2602209;Bom Jardim;5;2610608;Paudalho;1C
+2602308;Bonito;5;2604106;Caruaru;2B
+2602308;Bonito;5;2611606;Recife;1C
+2602308;Bonito;5;2603504;Camocim de São Félix;5
+2602308;Bonito;5;2604205;Catende;5
+2602308;Bonito;5;2601904;Bezerros;5
+2602308;Bonito;5;2612000;Sairé;5
+2602308;Bonito;5;2612455;Santa Cruz;5
+2602308;Bonito;5;2615409;Toritama;5
+2602308;Bonito;5;2616407;Vitória de Santo Antão;3B
+2602407;Brejão;5;2606002;Garanhuns;2C
+2602407;Brejão;5;2611606;Recife;1C
+2602407;Brejão;5;2604106;Caruaru;2B
+2602407;Brejão;5;2602100;Bom Conselho;5
+2602407;Brejão;5;2615102;Terezinha;5
+2602407;Brejão;5;2612307;Saloá;5
+2602506;Brejinho;5;2611606;Recife;1C
+2602506;Brejinho;5;2613602;São José do Egito;4B
+2602506;Brejinho;5;2600104;Afogados da Ingazeira;3B
+2602506;Brejinho;5;2607703;Itapetim;5
+2602506;Brejinho;5;2604106;Caruaru;2B
+2602506;Brejinho;5;2613909;Serra Talhada;3A
+2602506;Brejinho;5;2612505;Santa Cruz do Capibaribe;3B
+2602506;Brejinho;5;2601201;Arcoverde;3A
+2602506;Brejinho;5;2615904;Tuparetama;5
+2602506;Brejinho;5;2614600;Tabira;4B
+2602506;Brejinho;5;2612802;Santa Terezinha;5
+2602605;Brejo da Madre de Deus;5;2604106;Caruaru;2B
+2602605;Brejo da Madre de Deus;5;2611606;Recife;1C
+2602605;Brejo da Madre de Deus;5;2612505;Santa Cruz do Capibaribe;3B
+2602605;Brejo da Madre de Deus;5;2608008;Jataúba;5
+2602605;Brejo da Madre de Deus;5;2601706;Belo Jardim;3B
+2602605;Brejo da Madre de Deus;5;2615409;Toritama;5
+2602605;Brejo da Madre de Deus;5;2612455;Santa Cruz;5
+2602704;Buenos Aires;5;2611606;Recife;1C
+2602704;Buenos Aires;5;2604007;Carpina;3B
+2602704;Buenos Aires;5;2609501;Nazaré da Mata;5
+2602704;Buenos Aires;5;2616308;Vicência;5
+2602704;Buenos Aires;5;2608909;Limoeiro;3B
+2602704;Buenos Aires;5;2615300;Timbaúba;3B
+2602704;Buenos Aires;5;2615508;Tracunhaém;5
+2602704;Buenos Aires;5;2613701;São Lourenço da Mata;1C
+2602704;Buenos Aires;5;2604106;Caruaru;2B
+2602704;Buenos Aires;5;2615409;Toritama;5
+2602704;Buenos Aires;5;2603454;Camaragibe;1C
+2602704;Buenos Aires;5;2610608;Paudalho;1C
+2602803;Buíque;5;2601201;Arcoverde;3A
+2602803;Buíque;5;2611606;Recife;1C
+2602803;Buíque;5;2604106;Caruaru;2B
+2602803;Buíque;5;2615805;Tupanatinga;5
+2602803;Buíque;5;2606002;Garanhuns;2C
+2602803;Buíque;5;2607505;Itaíba;5
+2602803;Buíque;5;2609154;Manari;5
+2602803;Buíque;5;2615409;Toritama;5
+2602902;Cabo de Santo Agostinho;1C;2611606;Recife;1C
+2602902;Cabo de Santo Agostinho;1C;2607901;Jaboatão dos Guararapes;1C
+2602902;Cabo de Santo Agostinho;1C;2605202;Escada;3B
+2602902;Cabo de Santo Agostinho;1C;2611804;Ribeirão;5
+2602902;Cabo de Santo Agostinho;1C;2607208;Ipojuca;1C
+2602902;Cabo de Santo Agostinho;1C;2616407;Vitória de Santo Antão;3B
+2602902;Cabo de Santo Agostinho;1C;2610004;Palmares;3B
+2602902;Cabo de Santo Agostinho;1C;2605905;Gameleira;5
+2602902;Cabo de Santo Agostinho;1C;2614204;Sirinhaém;5
+2603009;Cabrobó;5;2611101;Petrolina;2C
+2603009;Cabrobó;5;2612208;Salgueiro;3B
+2603009;Cabrobó;5;2611606;Recife;1C
+2603009;Cabrobó;5;2601607;Belém do São Francisco;5
+2603009;Cabrobó;5;2612604;Santa Maria da Boa Vista;5
+2603009;Cabrobó;5;2608750;Lagoa Grande;5
+2603009;Cabrobó;5;2609808;Orocó;5
+2603009;Cabrobó;5;2613909;Serra Talhada;3A
+2603009;Cabrobó;5;2604106;Caruaru;2B
+2603108;Cachoeirinha;5;2604106;Caruaru;2B
+2603108;Cachoeirinha;5;2611606;Recife;1C
+2603108;Cachoeirinha;5;2608800;Lajedo;4B
+2603108;Cachoeirinha;5;2606002;Garanhuns;2C
+2603108;Cachoeirinha;5;2614857;Tamandaré;5
+2603108;Cachoeirinha;5;2601706;Belo Jardim;3B
+2603108;Cachoeirinha;5;2613107;São Caitano;5
+2603108;Cachoeirinha;5;2615409;Toritama;5
+2603108;Cachoeirinha;5;2613404;São José da Coroa Grande;5
+2603207;Caetés;5;2606002;Garanhuns;2C
+2603207;Caetés;5;2611606;Recife;1C
+2603207;Caetés;5;2601201;Arcoverde;3A
+2603207;Caetés;5;2604106;Caruaru;2B
+2603207;Caetés;5;2603801;Capoeiras;5
+2603207;Caetés;5;2610806;Pedra;5
+2603207;Caetés;5;2616001;Venturosa;5
+2603207;Caetés;5;2612455;Santa Cruz;5
+2603207;Caetés;5;2615409;Toritama;5
+2603306;Calçado;5;2606002;Garanhuns;2C
+2603306;Calçado;5;2608800;Lajedo;4B
+2603306;Calçado;5;2611606;Recife;1C
+2603306;Calçado;5;2604106;Caruaru;2B
+2603306;Calçado;5;2608305;Jupi;5
+2603306;Calçado;5;2601706;Belo Jardim;3B
+2603306;Calçado;5;2603702;Canhotinho;5
+2603306;Calçado;5;2613008;São Bento do Una;5
+2603405;Calumbi;5;2613909;Serra Talhada;3A
+2603405;Calumbi;5;2611606;Recife;1C
+2603405;Calumbi;5;2615706;Triunfo;5
+2603405;Calumbi;5;2605608;Flores;5
+2603405;Calumbi;5;2600104;Afogados da Ingazeira;3B
+2603405;Calumbi;5;2612208;Salgueiro;3B
+2603405;Calumbi;5;2604106;Caruaru;2B
+2603405;Calumbi;5;2603900;Carnaíba;5
+2603405;Calumbi;5;2601201;Arcoverde;3A
+2603405;Calumbi;5;2602605;Brejo da Madre de Deus;5
+2603405;Calumbi;5;2613503;São José do Belmonte;5
+2603405;Calumbi;5;2615409;Toritama;5
+2603405;Calumbi;5;2611101;Petrolina;2C
+2603405;Calumbi;5;2612505;Santa Cruz do Capibaribe;3B
+2603454;Camaragibe;1C;2611606;Recife;1C
+2603454;Camaragibe;1C;2613701;São Lourenço da Mata;1C
+2603454;Camaragibe;1C;2604007;Carpina;3B
+2603454;Camaragibe;1C;2610608;Paudalho;1C
+2603454;Camaragibe;1C;2609600;Olinda;1C
+2603454;Camaragibe;1C;2608909;Limoeiro;3B
+2603454;Camaragibe;1C;2608453;Lagoa do Carro;5
+2603454;Camaragibe;1C;2609501;Nazaré da Mata;5
+2603454;Camaragibe;1C;2615508;Tracunhaém;5
+2603454;Camaragibe;1C;2604106;Caruaru;2B
+2603454;Camaragibe;1C;2616407;Vitória de Santo Antão;3B
+2603504;Camocim de São Félix;5;2604106;Caruaru;2B
+2603504;Camocim de São Félix;5;2611606;Recife;1C
+2603504;Camocim de São Félix;5;2601904;Bezerros;5
+2603504;Camocim de São Félix;5;2602308;Bonito;5
+2603504;Camocim de São Félix;5;2612000;Sairé;5
+2603504;Camocim de São Félix;5;2604502;Chã Grande;5
+2603504;Camocim de São Félix;5;2606408;Gravatá;4A
+2603504;Camocim de São Félix;5;2616407;Vitória de Santo Antão;3B
+2603504;Camocim de São Félix;5;2612455;Santa Cruz;5
+2603603;Camutanga;5;2611606;Recife;1C
+2603603;Camutanga;5;2615300;Timbaúba;3B
+2603603;Camutanga;5;2607653;Itambé;5
+2603603;Camutanga;5;2605509;Ferreiros;5
+2603603;Camutanga;5;2604007;Carpina;3B
+2603603;Camutanga;5;2606200;Goiana;3B
+2603603;Camutanga;5;2604106;Caruaru;2B
+2603702;Canhotinho;5;2606002;Garanhuns;2C
+2603702;Canhotinho;5;2611606;Recife;1C
+2603702;Canhotinho;5;2604106;Caruaru;2B
+2603702;Canhotinho;5;2613206;São João;5
+2603702;Canhotinho;5;2601003;Angelim;5
+2603702;Canhotinho;5;2601706;Belo Jardim;3B
+2603702;Canhotinho;5;2611507;Quipapá;5
+2603801;Capoeiras;5;2606002;Garanhuns;2C
+2603801;Capoeiras;5;2611606;Recife;1C
+2603801;Capoeiras;5;2601201;Arcoverde;3A
+2603801;Capoeiras;5;2604106;Caruaru;2B
+2603801;Capoeiras;5;2613008;São Bento do Una;5
+2603801;Capoeiras;5;2603207;Caetés;5
+2603801;Capoeiras;5;2610806;Pedra;5
+2603801;Capoeiras;5;2616001;Venturosa;5
+2603801;Capoeiras;5;2608255;Jucati;5
+2603801;Capoeiras;5;2610905;Pesqueira;4A
+2603900;Carnaíba;5;2611606;Recife;1C
+2603900;Carnaíba;5;2600104;Afogados da Ingazeira;3B
+2603900;Carnaíba;5;2613909;Serra Talhada;3A
+2603900;Carnaíba;5;2604106;Caruaru;2B
+2603900;Carnaíba;5;2605608;Flores;5
+2603900;Carnaíba;5;2601201;Arcoverde;3A
+2603900;Carnaíba;5;2603405;Calumbi;5
+2603900;Carnaíba;5;2615706;Triunfo;5
+2603900;Carnaíba;5;2612505;Santa Cruz do Capibaribe;3B
+2603900;Carnaíba;5;2615409;Toritama;5
+2603900;Carnaíba;5;2611533;Quixaba;5
+2603900;Carnaíba;5;2614600;Tabira;4B
+2603926;Carnaubeira da Penha;5;2613909;Serra Talhada;3A
+2603926;Carnaubeira da Penha;5;2609303;Mirandiba;5
+2603926;Carnaubeira da Penha;5;2611606;Recife;1C
+2603926;Carnaubeira da Penha;5;2605707;Floresta;4B
+2603926;Carnaubeira da Penha;5;2612208;Salgueiro;3B
+2603926;Carnaubeira da Penha;5;2611101;Petrolina;2C
+2603926;Carnaubeira da Penha;5;2604106;Caruaru;2B
+2603926;Carnaubeira da Penha;5;2613503;São José do Belmonte;5
+2604007;Carpina;3B;2611606;Recife;1C
+2604007;Carpina;3B;2608909;Limoeiro;3B
+2604007;Carpina;3B;2613701;São Lourenço da Mata;1C
+2604007;Carpina;3B;2610608;Paudalho;1C
+2604007;Carpina;3B;2604106;Caruaru;2B
+2604007;Carpina;3B;2603454;Camaragibe;1C
+2604007;Carpina;3B;2609501;Nazaré da Mata;5
+2604007;Carpina;3B;2608453;Lagoa do Carro;5
+2604007;Carpina;3B;2616407;Vitória de Santo Antão;3B
+2604007;Carpina;3B;2615300;Timbaúba;3B
+2604007;Carpina;3B;2615508;Tracunhaém;5
+2604007;Carpina;3B;2616308;Vicência;5
+2604155;Casinhas;5;2614501;Surubim;3B
+2604155;Casinhas;5;2611606;Recife;1C
+2604155;Casinhas;5;2604106;Caruaru;2B
+2604155;Casinhas;5;2604007;Carpina;3B
+2604155;Casinhas;5;2608909;Limoeiro;3B
+2604155;Casinhas;5;2615409;Toritama;5
+2604155;Casinhas;5;2609709;Orobó;5
+2604155;Casinhas;5;2612505;Santa Cruz do Capibaribe;3B
+2604205;Catende;5;2611606;Recife;1C
+2604205;Catende;5;2604106;Caruaru;2B
+2604205;Catende;5;2610004;Palmares;3B
+2604205;Catende;5;2601508;Belém de Maria;5
+2604205;Catende;5;2615409;Toritama;5
+2604205;Catende;5;2600302;Agrestina;5
+2604205;Catende;5;2602308;Bonito;5
+2604205;Catende;5;2616407;Vitória de Santo Antão;3B
+2604205;Catende;5;2600401;Água Preta;5
+2604205;Catende;5;2606002;Garanhuns;2C
+2604205;Catende;5;2612505;Santa Cruz do Capibaribe;3B
+2604304;Cedro;5;2612208;Salgueiro;3B
+2604304;Cedro;5;2611606;Recife;1C
+2604304;Cedro;5;2611101;Petrolina;2C
+2604304;Cedro;5;2604106;Caruaru;2B
+2604403;Chã de Alegria;5;2616407;Vitória de Santo Antão;3B
+2604403;Chã de Alegria;5;2611606;Recife;1C
+2604403;Chã de Alegria;5;2604007;Carpina;3B
+2604403;Chã de Alegria;5;2606101;Glória do Goitá;5
+2604403;Chã de Alegria;5;2608909;Limoeiro;3B
+2604403;Chã de Alegria;5;2604106;Caruaru;2B
+2604403;Chã de Alegria;5;2610608;Paudalho;1C
+2604403;Chã de Alegria;5;2613701;São Lourenço da Mata;1C
+2604403;Chã de Alegria;5;2609501;Nazaré da Mata;5
+2604403;Chã de Alegria;5;2603454;Camaragibe;1C
+2604403;Chã de Alegria;5;2609402;Moreno;1C
+2604502;Chã Grande;5;2611606;Recife;1C
+2604502;Chã Grande;5;2616407;Vitória de Santo Antão;3B
+2604502;Chã Grande;5;2604106;Caruaru;2B
+2604502;Chã Grande;5;2606408;Gravatá;4A
+2604502;Chã Grande;5;2601904;Bezerros;5
+2604502;Chã Grande;5;2609402;Moreno;1C
+2604502;Chã Grande;5;2611309;Pombos;5
+2604601;Condado;5;2606200;Goiana;3B
+2604601;Condado;5;2611606;Recife;1C
+2604601;Condado;5;2615300;Timbaúba;3B
+2604601;Condado;5;2604007;Carpina;3B
+2604601;Condado;5;2600708;Aliança;5
+2604601;Condado;5;2609501;Nazaré da Mata;5
+2604601;Condado;5;2607802;Itaquitinga;5
+2604601;Condado;5;2610707;Paulista;1C
+2604700;Correntes;5;2606002;Garanhuns;2C
+2604700;Correntes;5;2611606;Recife;1C
+2604700;Correntes;5;2604106;Caruaru;2B
+2604809;Cortês;5;2611606;Recife;1C
+2604809;Cortês;5;2604106;Caruaru;2B
+2604809;Cortês;5;2610004;Palmares;3B
+2604809;Cortês;5;2611804;Ribeirão;5
+2604809;Cortês;5;2605202;Escada;3B
+2604809;Cortês;5;2601300;Barra de Guabiraba;5
+2604809;Cortês;5;2602308;Bonito;5
+2604809;Cortês;5;2603504;Camocim de São Félix;5
+2604809;Cortês;5;2602902;Cabo de Santo Agostinho;1C
+2604908;Cumaru;5;2604106;Caruaru;2B
+2604908;Cumaru;5;2611606;Recife;1C
+2604908;Cumaru;5;2608909;Limoeiro;3B
+2604908;Cumaru;5;2610509;Passira;5
+2604908;Cumaru;5;2616407;Vitória de Santo Antão;3B
+2604908;Cumaru;5;2604007;Carpina;3B
+2604908;Cumaru;5;2608453;Lagoa do Carro;5
+2604908;Cumaru;5;2610608;Paudalho;1C
+2604908;Cumaru;5;2613701;São Lourenço da Mata;1C
+2604908;Cumaru;5;2615409;Toritama;5
+2604908;Cumaru;5;2609501;Nazaré da Mata;5
+2604908;Cumaru;5;2611705;Riacho das Almas;5
+2604908;Cumaru;5;2612505;Santa Cruz do Capibaribe;3B
+2604908;Cumaru;5;2606002;Garanhuns;2C
+2605004;Cupira;5;2604106;Caruaru;2B
+2605004;Cupira;5;2611606;Recife;1C
+2605004;Cupira;5;2600302;Agrestina;5
+2605004;Cupira;5;2610202;Panelas;5
+2605004;Cupira;5;2610004;Palmares;3B
+2605004;Cupira;5;2608701;Lagoa dos Gatos;5
+2605004;Cupira;5;2606002;Garanhuns;2C
+2605004;Cupira;5;2613305;São Joaquim do Monte;5
+2605004;Cupira;5;2601508;Belém de Maria;5
+2605004;Cupira;5;2604205;Catende;5
+2605103;Custódia;5;2611606;Recife;1C
+2605103;Custódia;5;2601201;Arcoverde;3A
+2605103;Custódia;5;2613909;Serra Talhada;3A
+2605103;Custódia;5;2604106;Caruaru;2B
+2605103;Custódia;5;2615706;Triunfo;5
+2605103;Custódia;5;2614105;Sertânia;5
+2605103;Custódia;5;2612208;Salgueiro;3B
+2605152;Dormentes;5;2611101;Petrolina;2C
+2605152;Dormentes;5;2611606;Recife;1C
+2605152;Dormentes;5;2600203;Afrânio;5
+2605152;Dormentes;5;2612554;Santa Filomena;5
+2605152;Dormentes;5;2604106;Caruaru;2B
+2605152;Dormentes;5;2609907;Ouricuri;3A
+2605152;Dormentes;5;2601607;Belém do São Francisco;5
+2605202;Escada;3B;2611606;Recife;1C
+2605202;Escada;3B;2602902;Cabo de Santo Agostinho;1C
+2605202;Escada;3B;2616407;Vitória de Santo Antão;3B
+2605202;Escada;3B;2607901;Jaboatão dos Guararapes;1C
+2605202;Escada;3B;2610004;Palmares;3B
+2605202;Escada;3B;2611804;Ribeirão;5
+2605202;Escada;3B;2605905;Gameleira;5
+2605202;Escada;3B;2604106;Caruaru;2B
+2605202;Escada;3B;2612455;Santa Cruz;5
+2605301;Exu;5;2611606;Recife;1C
+2605301;Exu;5;2609907;Ouricuri;3A
+2605301;Exu;5;2601102;Araripina;3B
+2605301;Exu;5;2612208;Salgueiro;3B
+2605301;Exu;5;2602001;Bodocó;5
+2605301;Exu;5;2611101;Petrolina;2C
+2605301;Exu;5;2608750;Lagoa Grande;5
+2605301;Exu;5;2615607;Trindade;5
+2605400;Feira Nova;5;2608909;Limoeiro;3B
+2605400;Feira Nova;5;2611606;Recife;1C
+2605400;Feira Nova;5;2616407;Vitória de Santo Antão;3B
+2605400;Feira Nova;5;2604007;Carpina;3B
+2605400;Feira Nova;5;2604106;Caruaru;2B
+2605400;Feira Nova;5;2613701;São Lourenço da Mata;1C
+2605400;Feira Nova;5;2608503;Lagoa de Itaenga;5
+2605400;Feira Nova;5;2606101;Glória do Goitá;5
+2605400;Feira Nova;5;2609501;Nazaré da Mata;5
+2605400;Feira Nova;5;2607901;Jaboatão dos Guararapes;1C
+2605400;Feira Nova;5;2609402;Moreno;1C
+2605400;Feira Nova;5;2612455;Santa Cruz;5
+2605459;Fernando de Noronha;5;2611606;Recife;1C
+2605509;Ferreiros;5;2611606;Recife;1C
+2605509;Ferreiros;5;2615300;Timbaúba;3B
+2605509;Ferreiros;5;2607653;Itambé;5
+2605509;Ferreiros;5;2603603;Camutanga;5
+2605509;Ferreiros;5;2604007;Carpina;3B
+2605509;Ferreiros;5;2606200;Goiana;3B
+2605509;Ferreiros;5;2609501;Nazaré da Mata;5
+2605608;Flores;5;2613909;Serra Talhada;3A
+2605608;Flores;5;2611606;Recife;1C
+2605608;Flores;5;2600104;Afogados da Ingazeira;3B
+2605608;Flores;5;2615706;Triunfo;5
+2605608;Flores;5;2603405;Calumbi;5
+2605608;Flores;5;2603900;Carnaíba;5
+2605608;Flores;5;2605103;Custódia;5
+2605707;Floresta;4B;2613909;Serra Talhada;3A
+2605707;Floresta;4B;2611606;Recife;1C
+2605707;Floresta;4B;2611002;Petrolândia;4B
+2605707;Floresta;4B;2604106;Caruaru;2B
+2605707;Floresta;4B;2612208;Salgueiro;3B
+2605707;Floresta;4B;2601607;Belém do São Francisco;5
+2605707;Floresta;4B;2611101;Petrolina;2C
+2605707;Floresta;4B;2608057;Jatobá;5
+2605707;Floresta;4B;2607406;Itacuruba;5
+2605707;Floresta;4B;2612505;Santa Cruz do Capibaribe;3B
+2605707;Floresta;4B;2600104;Afogados da Ingazeira;3B
+2605707;Floresta;4B;2601201;Arcoverde;3A
+2605806;Frei Miguelinho;5;2604106;Caruaru;2B
+2605806;Frei Miguelinho;5;2611606;Recife;1C
+2605806;Frei Miguelinho;5;2614501;Surubim;3B
+2605806;Frei Miguelinho;5;2615409;Toritama;5
+2605806;Frei Miguelinho;5;2616209;Vertentes;5
+2605806;Frei Miguelinho;5;2608909;Limoeiro;3B
+2605806;Frei Miguelinho;5;2612505;Santa Cruz do Capibaribe;3B
+2605905;Gameleira;5;2611606;Recife;1C
+2605905;Gameleira;5;2610004;Palmares;3B
+2605905;Gameleira;5;2611804;Ribeirão;5
+2605905;Gameleira;5;2602902;Cabo de Santo Agostinho;1C
+2605905;Gameleira;5;2605202;Escada;3B
+2605905;Gameleira;5;2607901;Jaboatão dos Guararapes;1C
+2605905;Gameleira;5;2616407;Vitória de Santo Antão;3B
+2605905;Gameleira;5;2604106;Caruaru;2B
+2605905;Gameleira;5;2613701;São Lourenço da Mata;1C
+2605905;Gameleira;5;2615409;Toritama;5
+2606002;Garanhuns;2C;2611606;Recife;1C
+2606002;Garanhuns;2C;2604106;Caruaru;2B
+2606002;Garanhuns;2C;2608800;Lajedo;4B
+2606002;Garanhuns;2C;2613206;São João;5
+2606002;Garanhuns;2C;2606408;Gravatá;4A
+2606002;Garanhuns;2C;2601003;Angelim;5
+2606002;Garanhuns;2C;2608305;Jupi;5
+2606002;Garanhuns;2C;2602407;Brejão;5
+2606002;Garanhuns;2C;2615409;Toritama;5
+2606002;Garanhuns;2C;2601904;Bezerros;5
+2606002;Garanhuns;2C;2601201;Arcoverde;3A
+2606002;Garanhuns;2C;2612455;Santa Cruz;5
+2606002;Garanhuns;2C;2601706;Belo Jardim;3B
+2606101;Glória do Goitá;5;2616407;Vitória de Santo Antão;3B
+2606101;Glória do Goitá;5;2611606;Recife;1C
+2606101;Glória do Goitá;5;2608909;Limoeiro;3B
+2606101;Glória do Goitá;5;2604007;Carpina;3B
+2606101;Glória do Goitá;5;2613701;São Lourenço da Mata;1C
+2606101;Glória do Goitá;5;2604106;Caruaru;2B
+2606101;Glória do Goitá;5;2605400;Feira Nova;5
+2606101;Glória do Goitá;5;2609402;Moreno;1C
+2606101;Glória do Goitá;5;2607901;Jaboatão dos Guararapes;1C
+2606101;Glória do Goitá;5;2601904;Bezerros;5
+2606200;Goiana;3B;2611606;Recife;1C
+2606200;Goiana;3B;2604601;Condado;5
+2606200;Goiana;3B;2600708;Aliança;5
+2606200;Goiana;3B;2607802;Itaquitinga;5
+2606200;Goiana;3B;2606804;Igarassu;1C
+2606200;Goiana;3B;2610707;Paulista;1C
+2606200;Goiana;3B;2615300;Timbaúba;3B
+2606309;Granito;5;2601102;Araripina;3B
+2606309;Granito;5;2611606;Recife;1C
+2606309;Granito;5;2609907;Ouricuri;3A
+2606309;Granito;5;2605301;Exu;5
+2606309;Granito;5;2612208;Salgueiro;3B
+2606309;Granito;5;2602001;Bodocó;5
+2606309;Granito;5;2614303;Moreilândia;5
+2606309;Granito;5;2614006;Serrita;5
+2606309;Granito;5;2611101;Petrolina;2C
+2606408;Gravatá;4A;2604106;Caruaru;2B
+2606408;Gravatá;4A;2611606;Recife;1C
+2606408;Gravatá;4A;2616407;Vitória de Santo Antão;3B
+2606408;Gravatá;4A;2604502;Chã Grande;5
+2606408;Gravatá;4A;2601904;Bezerros;5
+2606408;Gravatá;4A;2612505;Santa Cruz do Capibaribe;3B
+2606507;Iati;5;2606002;Garanhuns;2C
+2606507;Iati;5;2611606;Recife;1C
+2606507;Iati;5;2604106;Caruaru;2B
+2606507;Iati;5;2600500;Águas Belas;5
+2606507;Iati;5;2601201;Arcoverde;3A
+2606606;Ibimirim;5;2601201;Arcoverde;3A
+2606606;Ibimirim;5;2611606;Recife;1C
+2606606;Ibimirim;5;2604106;Caruaru;2B
+2606606;Ibimirim;5;2607000;Inajá;5
+2606606;Ibimirim;5;2605707;Floresta;4B
+2606606;Ibimirim;5;2611101;Petrolina;2C
+2606606;Ibimirim;5;2613909;Serra Talhada;3A
+2606606;Ibimirim;5;2611002;Petrolândia;4B
+2606606;Ibimirim;5;2614808;Tacaratu;5
+2606606;Ibimirim;5;2601607;Belém do São Francisco;5
+2606606;Ibimirim;5;2606002;Garanhuns;2C
+2606705;Ibirajuba;5;2604106;Caruaru;2B
+2606705;Ibirajuba;5;2608800;Lajedo;4B
+2606705;Ibirajuba;5;2611606;Recife;1C
+2606705;Ibirajuba;5;2606002;Garanhuns;2C
+2606705;Ibirajuba;5;2600807;Altinho;5
+2606705;Ibirajuba;5;2601706;Belo Jardim;3B
+2606705;Ibirajuba;5;2600302;Agrestina;5
+2606705;Ibirajuba;5;2605004;Cupira;5
+2606705;Ibirajuba;5;2608404;Jurema;5
+2606705;Ibirajuba;5;2610202;Panelas;5
+2606804;Igarassu;1C;2611606;Recife;1C
+2606804;Igarassu;1C;2600054;Abreu e Lima;1C
+2606804;Igarassu;1C;2610707;Paulista;1C
+2606804;Igarassu;1C;2609600;Olinda;1C
+2606804;Igarassu;1C;2606200;Goiana;3B
+2606804;Igarassu;1C;2607752;Itapissuma;1C
+2606804;Igarassu;1C;2613701;São Lourenço da Mata;1C
+2606903;Iguaracy;5;2600104;Afogados da Ingazeira;3B
+2606903;Iguaracy;5;2611606;Recife;1C
+2606903;Iguaracy;5;2613909;Serra Talhada;3A
+2606903;Iguaracy;5;2601201;Arcoverde;3A
+2606903;Iguaracy;5;2614105;Sertânia;5
+2606903;Iguaracy;5;2604106;Caruaru;2B
+2606903;Iguaracy;5;2607109;Ingazeira;5
+2606903;Iguaracy;5;2614600;Tabira;4B
+2606903;Iguaracy;5;2605103;Custódia;5
+2606903;Iguaracy;5;2615904;Tuparetama;5
+2606903;Iguaracy;5;2612505;Santa Cruz do Capibaribe;3B
+2606903;Iguaracy;5;2616407;Vitória de Santo Antão;3B
+2606903;Iguaracy;5;2613602;São José do Egito;4B
+2607000;Inajá;5;2601201;Arcoverde;3A
+2607000;Inajá;5;2611606;Recife;1C
+2607000;Inajá;5;2611002;Petrolândia;4B
+2607000;Inajá;5;2615805;Tupanatinga;5
+2607000;Inajá;5;2606002;Garanhuns;2C
+2607000;Inajá;5;2613909;Serra Talhada;3A
+2607000;Inajá;5;2604106;Caruaru;2B
+2607000;Inajá;5;2614808;Tacaratu;5
+2607000;Inajá;5;2609154;Manari;5
+2607109;Ingazeira;5;2600104;Afogados da Ingazeira;3B
+2607109;Ingazeira;5;2611606;Recife;1C
+2607109;Ingazeira;5;2614600;Tabira;4B
+2607109;Ingazeira;5;2615904;Tuparetama;5
+2607109;Ingazeira;5;2604106;Caruaru;2B
+2607109;Ingazeira;5;2613909;Serra Talhada;3A
+2607109;Ingazeira;5;2612505;Santa Cruz do Capibaribe;3B
+2607109;Ingazeira;5;2615409;Toritama;5
+2607109;Ingazeira;5;2606903;Iguaracy;5
+2607109;Ingazeira;5;2613602;São José do Egito;4B
+2607109;Ingazeira;5;2601201;Arcoverde;3A
+2607208;Ipojuca;1C;2611606;Recife;1C
+2607208;Ipojuca;1C;2602902;Cabo de Santo Agostinho;1C
+2607208;Ipojuca;1C;2614204;Sirinhaém;5
+2607208;Ipojuca;1C;2611903;Rio Formoso;5
+2607208;Ipojuca;1C;2607901;Jaboatão dos Guararapes;1C
+2607208;Ipojuca;1C;2614857;Tamandaré;5
+2607208;Ipojuca;1C;2601409;Barreiros;4A
+2607208;Ipojuca;1C;2613404;São José da Coroa Grande;5
+2607307;Ipubi;5;2601102;Araripina;3B
+2607307;Ipubi;5;2609907;Ouricuri;3A
+2607307;Ipubi;5;2611101;Petrolina;2C
+2607307;Ipubi;5;2615607;Trindade;5
+2607307;Ipubi;5;2611606;Recife;1C
+2607307;Ipubi;5;2608750;Lagoa Grande;5
+2607307;Ipubi;5;2612455;Santa Cruz;5
+2607307;Ipubi;5;2612208;Salgueiro;3B
+2607307;Ipubi;5;2605301;Exu;5
+2607406;Itacuruba;5;2605707;Floresta;4B
+2607406;Itacuruba;5;2601607;Belém do São Francisco;5
+2607406;Itacuruba;5;2611606;Recife;1C
+2607406;Itacuruba;5;2611101;Petrolina;2C
+2607406;Itacuruba;5;2613909;Serra Talhada;3A
+2607406;Itacuruba;5;2603009;Cabrobó;5
+2607406;Itacuruba;5;2611002;Petrolândia;4B
+2607406;Itacuruba;5;2604106;Caruaru;2B
+2607406;Itacuruba;5;2601201;Arcoverde;3A
+2607406;Itacuruba;5;2612208;Salgueiro;3B
+2607505;Itaíba;5;2601201;Arcoverde;3A
+2607505;Itaíba;5;2611606;Recife;1C
+2607505;Itaíba;5;2606002;Garanhuns;2C
+2607505;Itaíba;5;2600500;Águas Belas;5
+2607505;Itaíba;5;2602803;Buíque;5
+2607505;Itaíba;5;2604106;Caruaru;2B
+2607505;Itaíba;5;2615805;Tupanatinga;5
+2607505;Itaíba;5;2609154;Manari;5
+2607604;Ilha de Itamaracá;1C;2611606;Recife;1C
+2607604;Ilha de Itamaracá;1C;2606804;Igarassu;1C
+2607604;Ilha de Itamaracá;1C;2600054;Abreu e Lima;1C
+2607604;Ilha de Itamaracá;1C;2609600;Olinda;1C
+2607604;Ilha de Itamaracá;1C;2610707;Paulista;1C
+2607604;Ilha de Itamaracá;1C;2613701;São Lourenço da Mata;1C
+2607604;Ilha de Itamaracá;1C;2602902;Cabo de Santo Agostinho;1C
+2607604;Ilha de Itamaracá;1C;2607752;Itapissuma;1C
+2607653;Itambé;5;2611606;Recife;1C
+2607653;Itambé;5;2606200;Goiana;3B
+2607653;Itambé;5;2615300;Timbaúba;3B
+2607653;Itambé;5;2603603;Camutanga;5
+2607653;Itambé;5;2605509;Ferreiros;5
+2607653;Itambé;5;2604106;Caruaru;2B
+2607653;Itambé;5;2604007;Carpina;3B
+2607703;Itapetim;5;2611606;Recife;1C
+2607703;Itapetim;5;2613602;São José do Egito;4B
+2607703;Itapetim;5;2600104;Afogados da Ingazeira;3B
+2607703;Itapetim;5;2604106;Caruaru;2B
+2607703;Itapetim;5;2612505;Santa Cruz do Capibaribe;3B
+2607703;Itapetim;5;2601201;Arcoverde;3A
+2607703;Itapetim;5;2602506;Brejinho;5
+2607703;Itapetim;5;2614600;Tabira;4B
+2607703;Itapetim;5;2615409;Toritama;5
+2607703;Itapetim;5;2613909;Serra Talhada;3A
+2607752;Itapissuma;1C;2611606;Recife;1C
+2607752;Itapissuma;1C;2606804;Igarassu;1C
+2607752;Itapissuma;1C;2600054;Abreu e Lima;1C
+2607752;Itapissuma;1C;2609600;Olinda;1C
+2607752;Itapissuma;1C;2610707;Paulista;1C
+2607752;Itapissuma;1C;2613701;São Lourenço da Mata;1C
+2607752;Itapissuma;1C;2604106;Caruaru;2B
+2607752;Itapissuma;1C;2606200;Goiana;3B
+2607752;Itapissuma;1C;2607901;Jaboatão dos Guararapes;1C
+2607752;Itapissuma;1C;2615409;Toritama;5
+2607802;Itaquitinga;5;2611606;Recife;1C
+2607802;Itaquitinga;5;2606200;Goiana;3B
+2607802;Itaquitinga;5;2604007;Carpina;3B
+2607802;Itaquitinga;5;2609501;Nazaré da Mata;5
+2607802;Itaquitinga;5;2604601;Condado;5
+2607802;Itaquitinga;5;2608909;Limoeiro;3B
+2607802;Itaquitinga;5;2615300;Timbaúba;3B
+2607950;Jaqueira;5;2611606;Recife;1C
+2607950;Jaqueira;5;2610004;Palmares;3B
+2607950;Jaqueira;5;2604106;Caruaru;2B
+2607950;Jaqueira;5;2609204;Maraial;5
+2607950;Jaqueira;5;2604205;Catende;5
+2607950;Jaqueira;5;2612901;São Benedito do Sul;5
+2607950;Jaqueira;5;2611507;Quipapá;5
+2607950;Jaqueira;5;2601003;Angelim;5
+2607950;Jaqueira;5;2603702;Canhotinho;5
+2607950;Jaqueira;5;2606002;Garanhuns;2C
+2607950;Jaqueira;5;2613206;São João;5
+2607950;Jaqueira;5;2615409;Toritama;5
+2608008;Jataúba;5;2604106;Caruaru;2B
+2608008;Jataúba;5;2612505;Santa Cruz do Capibaribe;3B
+2608008;Jataúba;5;2611606;Recife;1C
+2608008;Jataúba;5;2602605;Brejo da Madre de Deus;5
+2608008;Jataúba;5;2615409;Toritama;5
+2608008;Jataúba;5;2601706;Belo Jardim;3B
+2608008;Jataúba;5;2606002;Garanhuns;2C
+2608057;Jatobá;5;2611002;Petrolândia;4B
+2608057;Jatobá;5;2611606;Recife;1C
+2608057;Jatobá;5;2605707;Floresta;4B
+2608057;Jatobá;5;2614808;Tacaratu;5
+2608057;Jatobá;5;2604106;Caruaru;2B
+2608057;Jatobá;5;2613909;Serra Talhada;3A
+2608057;Jatobá;5;2601607;Belém do São Francisco;5
+2608107;João Alfredo;5;2611606;Recife;1C
+2608107;João Alfredo;5;2608909;Limoeiro;3B
+2608107;João Alfredo;5;2614501;Surubim;3B
+2608107;João Alfredo;5;2616407;Vitória de Santo Antão;3B
+2608107;João Alfredo;5;2604007;Carpina;3B
+2608107;João Alfredo;5;2612109;Salgadinho;5
+2608107;João Alfredo;5;2604106;Caruaru;2B
+2608107;João Alfredo;5;2609501;Nazaré da Mata;5
+2608107;João Alfredo;5;2612505;Santa Cruz do Capibaribe;3B
+2608107;João Alfredo;5;2615409;Toritama;5
+2608107;João Alfredo;5;2602209;Bom Jardim;5
+2608107;João Alfredo;5;2608453;Lagoa do Carro;5
+2608107;João Alfredo;5;2610608;Paudalho;1C
+2608107;João Alfredo;5;2613701;São Lourenço da Mata;1C
+2608206;Joaquim Nabuco;5;2611606;Recife;1C
+2608206;Joaquim Nabuco;5;2610004;Palmares;3B
+2608206;Joaquim Nabuco;5;2604106;Caruaru;2B
+2608206;Joaquim Nabuco;5;2602902;Cabo de Santo Agostinho;1C
+2608206;Joaquim Nabuco;5;2605202;Escada;3B
+2608206;Joaquim Nabuco;5;2616407;Vitória de Santo Antão;3B
+2608255;Jucati;5;2606002;Garanhuns;2C
+2608255;Jucati;5;2611606;Recife;1C
+2608255;Jucati;5;2608305;Jupi;5
+2608255;Jucati;5;2604106;Caruaru;2B
+2608255;Jucati;5;2608800;Lajedo;4B
+2608255;Jucati;5;2601706;Belo Jardim;3B
+2608255;Jucati;5;2612455;Santa Cruz;5
+2608305;Jupi;5;2606002;Garanhuns;2C
+2608305;Jupi;5;2611606;Recife;1C
+2608305;Jupi;5;2604106;Caruaru;2B
+2608305;Jupi;5;2608800;Lajedo;4B
+2608305;Jupi;5;2608255;Jucati;5
+2608305;Jupi;5;2608404;Jurema;5
+2608305;Jupi;5;2601706;Belo Jardim;3B
+2608305;Jupi;5;2603306;Calçado;5
+2608404;Jurema;5;2604106;Caruaru;2B
+2608404;Jurema;5;2608800;Lajedo;4B
+2608404;Jurema;5;2606002;Garanhuns;2C
+2608404;Jurema;5;2611606;Recife;1C
+2608404;Jurema;5;2610202;Panelas;5
+2608404;Jurema;5;2601706;Belo Jardim;3B
+2608404;Jurema;5;2605004;Cupira;5
+2608404;Jurema;5;2608305;Jupi;5
+2608404;Jurema;5;2616407;Vitória de Santo Antão;3B
+2608404;Jurema;5;2601904;Bezerros;5
+2608404;Jurema;5;2609402;Moreno;1C
+2608404;Jurema;5;2612505;Santa Cruz do Capibaribe;3B
+2608404;Jurema;5;2615409;Toritama;5
+2608453;Lagoa do Carro;5;2611606;Recife;1C
+2608453;Lagoa do Carro;5;2604007;Carpina;3B
+2608453;Lagoa do Carro;5;2608909;Limoeiro;3B
+2608453;Lagoa do Carro;5;2613701;São Lourenço da Mata;1C
+2608453;Lagoa do Carro;5;2609501;Nazaré da Mata;5
+2608453;Lagoa do Carro;5;2610608;Paudalho;1C
+2608453;Lagoa do Carro;5;2616407;Vitória de Santo Antão;3B
+2608453;Lagoa do Carro;5;2604106;Caruaru;2B
+2608453;Lagoa do Carro;5;2615508;Tracunhaém;5
+2608453;Lagoa do Carro;5;2608107;João Alfredo;5
+2608453;Lagoa do Carro;5;2606408;Gravatá;4A
+2608503;Lagoa de Itaenga;5;2611606;Recife;1C
+2608503;Lagoa de Itaenga;5;2604007;Carpina;3B
+2608503;Lagoa de Itaenga;5;2608909;Limoeiro;3B
+2608503;Lagoa de Itaenga;5;2616407;Vitória de Santo Antão;3B
+2608503;Lagoa de Itaenga;5;2613701;São Lourenço da Mata;1C
+2608503;Lagoa de Itaenga;5;2605400;Feira Nova;5
+2608503;Lagoa de Itaenga;5;2610608;Paudalho;1C
+2608503;Lagoa de Itaenga;5;2604106;Caruaru;2B
+2608503;Lagoa de Itaenga;5;2609501;Nazaré da Mata;5
+2608503;Lagoa de Itaenga;5;2603454;Camaragibe;1C
+2608503;Lagoa de Itaenga;5;2615300;Timbaúba;3B
+2608602;Lagoa do Ouro;5;2606002;Garanhuns;2C
+2608602;Lagoa do Ouro;5;2611606;Recife;1C
+2608602;Lagoa do Ouro;5;2604106;Caruaru;2B
+2608602;Lagoa do Ouro;5;2602100;Bom Conselho;5
+2608602;Lagoa do Ouro;5;2604700;Correntes;5
+2608602;Lagoa do Ouro;5;2602407;Brejão;5
+2608602;Lagoa do Ouro;5;2615102;Terezinha;5
+2608602;Lagoa do Ouro;5;2610905;Pesqueira;4A
+2608701;Lagoa dos Gatos;5;2604106;Caruaru;2B
+2608701;Lagoa dos Gatos;5;2605004;Cupira;5
+2608701;Lagoa dos Gatos;5;2611606;Recife;1C
+2608701;Lagoa dos Gatos;5;2610004;Palmares;3B
+2608701;Lagoa dos Gatos;5;2601508;Belém de Maria;5
+2608701;Lagoa dos Gatos;5;2610202;Panelas;5
+2608701;Lagoa dos Gatos;5;2604205;Catende;5
+2608701;Lagoa dos Gatos;5;2600302;Agrestina;5
+2608750;Lagoa Grande;5;2611101;Petrolina;2C
+2608750;Lagoa Grande;5;2612604;Santa Maria da Boa Vista;5
+2608750;Lagoa Grande;5;2611606;Recife;1C
+2608750;Lagoa Grande;5;2609907;Ouricuri;3A
+2608750;Lagoa Grande;5;2601607;Belém do São Francisco;5
+2608750;Lagoa Grande;5;2609808;Orocó;5
+2608750;Lagoa Grande;5;2612208;Salgueiro;3B
+2608750;Lagoa Grande;5;2601102;Araripina;3B
+2608800;Lajedo;4B;2606002;Garanhuns;2C
+2608800;Lajedo;4B;2604106;Caruaru;2B
+2608800;Lajedo;4B;2611606;Recife;1C
+2608800;Lajedo;4B;2614857;Tamandaré;5
+2608800;Lajedo;4B;2610905;Pesqueira;4A
+2608800;Lajedo;4B;2608404;Jurema;5
+2608800;Lajedo;4B;2603306;Calçado;5
+2608800;Lajedo;4B;2608305;Jupi;5
+2608800;Lajedo;4B;2601706;Belo Jardim;3B
+2608800;Lajedo;4B;2612505;Santa Cruz do Capibaribe;3B
+2608800;Lajedo;4B;2615409;Toritama;5
+2608909;Limoeiro;3B;2611606;Recife;1C
+2608909;Limoeiro;3B;2604007;Carpina;3B
+2608909;Limoeiro;3B;2616407;Vitória de Santo Antão;3B
+2608909;Limoeiro;3B;2604106;Caruaru;2B
+2608909;Limoeiro;3B;2608453;Lagoa do Carro;5
+2608909;Limoeiro;3B;2610608;Paudalho;1C
+2608909;Limoeiro;3B;2615409;Toritama;5
+2608909;Limoeiro;3B;2605400;Feira Nova;5
+2608909;Limoeiro;3B;2612505;Santa Cruz do Capibaribe;3B
+2608909;Limoeiro;3B;2609501;Nazaré da Mata;5
+2609006;Macaparana;5;2611606;Recife;1C
+2609006;Macaparana;5;2615300;Timbaúba;3B
+2609006;Macaparana;5;2604007;Carpina;3B
+2609006;Macaparana;5;2609501;Nazaré da Mata;5
+2609006;Macaparana;5;2613800;São Vicente Férrer;5
+2609006;Macaparana;5;2600708;Aliança;5
+2609006;Macaparana;5;2610608;Paudalho;1C
+2609006;Macaparana;5;2613701;São Lourenço da Mata;1C
+2609006;Macaparana;5;2615508;Tracunhaém;5
+2609006;Macaparana;5;2604106;Caruaru;2B
+2609006;Macaparana;5;2615409;Toritama;5
+2609006;Macaparana;5;2606200;Goiana;3B
+2609006;Macaparana;5;2608909;Limoeiro;3B
+2609105;Machados;5;2608909;Limoeiro;3B
+2609105;Machados;5;2611606;Recife;1C
+2609105;Machados;5;2604007;Carpina;3B
+2609105;Machados;5;2616407;Vitória de Santo Antão;3B
+2609105;Machados;5;2613701;São Lourenço da Mata;1C
+2609105;Machados;5;2609709;Orobó;5
+2609105;Machados;5;2604106;Caruaru;2B
+2609105;Machados;5;2609501;Nazaré da Mata;5
+2609105;Machados;5;2615409;Toritama;5
+2609105;Machados;5;2614501;Surubim;3B
+2609105;Machados;5;2613800;São Vicente Férrer;5
+2609105;Machados;5;2603454;Camaragibe;1C
+2609105;Machados;5;2608453;Lagoa do Carro;5
+2609105;Machados;5;2610608;Paudalho;1C
+2609105;Machados;5;2602209;Bom Jardim;5
+2609105;Machados;5;2612505;Santa Cruz do Capibaribe;3B
+2609105;Machados;5;2608107;João Alfredo;5
+2609105;Machados;5;2609006;Macaparana;5
+2609105;Machados;5;2615300;Timbaúba;3B
+2609154;Manari;5;2601201;Arcoverde;3A
+2609154;Manari;5;2611606;Recife;1C
+2609154;Manari;5;2607000;Inajá;5
+2609154;Manari;5;2604106;Caruaru;2B
+2609154;Manari;5;2606002;Garanhuns;2C
+2609154;Manari;5;2602803;Buíque;5
+2609154;Manari;5;2615805;Tupanatinga;5
+2609154;Manari;5;2611002;Petrolândia;4B
+2609154;Manari;5;2600500;Águas Belas;5
+2609204;Maraial;5;2610004;Palmares;3B
+2609204;Maraial;5;2611606;Recife;1C
+2609204;Maraial;5;2604106;Caruaru;2B
+2609204;Maraial;5;2604205;Catende;5
+2609204;Maraial;5;2607950;Jaqueira;5
+2609204;Maraial;5;2606002;Garanhuns;2C
+2609204;Maraial;5;2615409;Toritama;5
+2609303;Mirandiba;5;2612208;Salgueiro;3B
+2609303;Mirandiba;5;2613909;Serra Talhada;3A
+2609303;Mirandiba;5;2611101;Petrolina;2C
+2609303;Mirandiba;5;2611606;Recife;1C
+2609303;Mirandiba;5;2613503;São José do Belmonte;5
+2609303;Mirandiba;5;2603926;Carnaubeira da Penha;5
+2609303;Mirandiba;5;2604106;Caruaru;2B
+2609303;Mirandiba;5;2605707;Floresta;4B
+2609303;Mirandiba;5;2615706;Triunfo;5
+2609402;Moreno;1C;2611606;Recife;1C
+2609402;Moreno;1C;2616407;Vitória de Santo Antão;3B
+2609402;Moreno;1C;2604106;Caruaru;2B
+2609402;Moreno;1C;2611309;Pombos;5
+2609402;Moreno;1C;2601904;Bezerros;5
+2609402;Moreno;1C;2604502;Chã Grande;5
+2609402;Moreno;1C;2606408;Gravatá;4A
+2609402;Moreno;1C;2607901;Jaboatão dos Guararapes;1C
+2609402;Moreno;1C;2612455;Santa Cruz;5
+2609501;Nazaré da Mata;5;2611606;Recife;1C
+2609501;Nazaré da Mata;5;2604007;Carpina;3B
+2609501;Nazaré da Mata;5;2608909;Limoeiro;3B
+2609501;Nazaré da Mata;5;2615300;Timbaúba;3B
+2609501;Nazaré da Mata;5;2602704;Buenos Aires;5
+2609501;Nazaré da Mata;5;2616308;Vicência;5
+2609501;Nazaré da Mata;5;2615508;Tracunhaém;5
+2609501;Nazaré da Mata;5;2613701;São Lourenço da Mata;1C
+2609501;Nazaré da Mata;5;2612455;Santa Cruz;5
+2609501;Nazaré da Mata;5;2610608;Paudalho;1C
+2609501;Nazaré da Mata;5;2606200;Goiana;3B
+2609501;Nazaré da Mata;5;2607802;Itaquitinga;5
+2609600;Olinda;1C;2611606;Recife;1C
+2609600;Olinda;1C;2610707;Paulista;1C
+2609600;Olinda;1C;2607901;Jaboatão dos Guararapes;1C
+2609600;Olinda;1C;2600054;Abreu e Lima;1C
+2609600;Olinda;1C;2604106;Caruaru;2B
+2609600;Olinda;1C;2613701;São Lourenço da Mata;1C
+2609600;Olinda;1C;2615409;Toritama;5
+2609600;Olinda;1C;2606804;Igarassu;1C
+2609709;Orobó;5;2611606;Recife;1C
+2609709;Orobó;5;2608909;Limoeiro;3B
+2609709;Orobó;5;2614501;Surubim;3B
+2609709;Orobó;5;2616407;Vitória de Santo Antão;3B
+2609709;Orobó;5;2604007;Carpina;3B
+2609709;Orobó;5;2602209;Bom Jardim;5
+2609709;Orobó;5;2615409;Toritama;5
+2609709;Orobó;5;2604106;Caruaru;2B
+2609709;Orobó;5;2612505;Santa Cruz do Capibaribe;3B
+2609709;Orobó;5;2608107;João Alfredo;5
+2609709;Orobó;5;2609501;Nazaré da Mata;5
+2609709;Orobó;5;2613701;São Lourenço da Mata;1C
+2609709;Orobó;5;2608453;Lagoa do Carro;5
+2609709;Orobó;5;2610608;Paudalho;1C
+2609808;Orocó;5;2611101;Petrolina;2C
+2609808;Orocó;5;2603009;Cabrobó;5
+2609808;Orocó;5;2612604;Santa Maria da Boa Vista;5
+2609808;Orocó;5;2612208;Salgueiro;3B
+2609808;Orocó;5;2611606;Recife;1C
+2609808;Orocó;5;2601607;Belém do São Francisco;5
+2609808;Orocó;5;2608750;Lagoa Grande;5
+2609808;Orocó;5;2604106;Caruaru;2B
+2609907;Ouricuri;3A;2611101;Petrolina;2C
+2609907;Ouricuri;3A;2611606;Recife;1C
+2609907;Ouricuri;3A;2601102;Araripina;3B
+2609907;Ouricuri;3A;2612208;Salgueiro;3B
+2609907;Ouricuri;3A;2602001;Bodocó;5
+2609907;Ouricuri;3A;2612455;Santa Cruz;5
+2609907;Ouricuri;3A;2615607;Trindade;5
+2609907;Ouricuri;3A;2608750;Lagoa Grande;5
+2609907;Ouricuri;3A;2605301;Exu;5
+2609907;Ouricuri;3A;2614006;Serrita;5
+2609907;Ouricuri;3A;2604106;Caruaru;2B
+2610004;Palmares;3B;2611606;Recife;1C
+2610004;Palmares;3B;2604106;Caruaru;2B
+2610004;Palmares;3B;2616407;Vitória de Santo Antão;3B
+2610004;Palmares;3B;2605905;Gameleira;5
+2610004;Palmares;3B;2602902;Cabo de Santo Agostinho;1C
+2610004;Palmares;3B;2605202;Escada;3B
+2610004;Palmares;3B;2611804;Ribeirão;5
+2610004;Palmares;3B;2604205;Catende;5
+2610004;Palmares;3B;2612505;Santa Cruz do Capibaribe;3B
+2610004;Palmares;3B;2615409;Toritama;5
+2610103;Palmeirina;5;2606002;Garanhuns;2C
+2610103;Palmeirina;5;2611606;Recife;1C
+2610103;Palmeirina;5;2613206;São João;5
+2610103;Palmeirina;5;2601003;Angelim;5
+2610103;Palmeirina;5;2604106;Caruaru;2B
+2610202;Panelas;5;2604106;Caruaru;2B
+2610202;Panelas;5;2611606;Recife;1C
+2610202;Panelas;5;2605004;Cupira;5
+2610202;Panelas;5;2608404;Jurema;5
+2610202;Panelas;5;2611507;Quipapá;5
+2610202;Panelas;5;2608701;Lagoa dos Gatos;5
+2610202;Panelas;5;2600302;Agrestina;5
+2610202;Panelas;5;2606002;Garanhuns;2C
+2610301;Paranatama;5;2606002;Garanhuns;2C
+2610301;Paranatama;5;2611606;Recife;1C
+2610301;Paranatama;5;2612307;Saloá;5
+2610301;Paranatama;5;2604106;Caruaru;2B
+2610301;Paranatama;5;2603207;Caetés;5
+2610301;Paranatama;5;2602100;Bom Conselho;5
+2610301;Paranatama;5;2602407;Brejão;5
+2610301;Paranatama;5;2603801;Capoeiras;5
+2610400;Parnamirim;5;2609907;Ouricuri;3A
+2610400;Parnamirim;5;2612208;Salgueiro;3B
+2610400;Parnamirim;5;2611606;Recife;1C
+2610400;Parnamirim;5;2611101;Petrolina;2C
+2610400;Parnamirim;5;2615201;Terra Nova;5
+2610400;Parnamirim;5;2601102;Araripina;3B
+2610400;Parnamirim;5;2604106;Caruaru;2B
+2610509;Passira;5;2611606;Recife;1C
+2610509;Passira;5;2608909;Limoeiro;3B
+2610509;Passira;5;2604106;Caruaru;2B
+2610509;Passira;5;2616407;Vitória de Santo Antão;3B
+2610509;Passira;5;2604908;Cumaru;5
+2610509;Passira;5;2612109;Salgadinho;5
+2610509;Passira;5;2604007;Carpina;3B
+2610509;Passira;5;2613701;São Lourenço da Mata;1C
+2610509;Passira;5;2615409;Toritama;5
+2610509;Passira;5;2609501;Nazaré da Mata;5
+2610509;Passira;5;2608453;Lagoa do Carro;5
+2610509;Passira;5;2610608;Paudalho;1C
+2610509;Passira;5;2612505;Santa Cruz do Capibaribe;3B
+2610608;Paudalho;1C;2611606;Recife;1C
+2610608;Paudalho;1C;2604007;Carpina;3B
+2610608;Paudalho;1C;2613701;São Lourenço da Mata;1C
+2610608;Paudalho;1C;2608909;Limoeiro;3B
+2610608;Paudalho;1C;2603454;Camaragibe;1C
+2610608;Paudalho;1C;2604106;Caruaru;2B
+2610608;Paudalho;1C;2608453;Lagoa do Carro;5
+2610608;Paudalho;1C;2609501;Nazaré da Mata;5
+2610608;Paudalho;1C;2615508;Tracunhaém;5
+2610707;Paulista;1C;2611606;Recife;1C
+2610707;Paulista;1C;2609600;Olinda;1C
+2610707;Paulista;1C;2606200;Goiana;3B
+2610707;Paulista;1C;2606804;Igarassu;1C
+2610707;Paulista;1C;2613701;São Lourenço da Mata;1C
+2610707;Paulista;1C;2600054;Abreu e Lima;1C
+2610707;Paulista;1C;2604106;Caruaru;2B
+2610707;Paulista;1C;2612505;Santa Cruz do Capibaribe;3B
+2610707;Paulista;1C;2607901;Jaboatão dos Guararapes;1C
+2610806;Pedra;5;2601201;Arcoverde;3A
+2610806;Pedra;5;2611606;Recife;1C
+2610806;Pedra;5;2604106;Caruaru;2B
+2610806;Pedra;5;2606002;Garanhuns;2C
+2610806;Pedra;5;2616001;Venturosa;5
+2610806;Pedra;5;2610905;Pesqueira;4A
+2610806;Pedra;5;2602803;Buíque;5
+2610806;Pedra;5;2603207;Caetés;5
+2610806;Pedra;5;2603801;Capoeiras;5
+2610806;Pedra;5;2613909;Serra Talhada;3A
+2610806;Pedra;5;2611101;Petrolina;2C
+2610806;Pedra;5;2614105;Sertânia;5
+2610905;Pesqueira;4A;2604106;Caruaru;2B
+2610905;Pesqueira;4A;2611606;Recife;1C
+2610905;Pesqueira;4A;2601201;Arcoverde;3A
+2610905;Pesqueira;4A;2601706;Belo Jardim;3B
+2610905;Pesqueira;4A;2606002;Garanhuns;2C
+2610905;Pesqueira;4A;2612406;Sanharó;5
+2610905;Pesqueira;4A;2612505;Santa Cruz do Capibaribe;3B
+2610905;Pesqueira;4A;2613909;Serra Talhada;3A
+2610905;Pesqueira;4A;2613008;São Bento do Una;5
+2610905;Pesqueira;4A;2615409;Toritama;5
+2611002;Petrolândia;4B;2611606;Recife;1C
+2611002;Petrolândia;4B;2604106;Caruaru;2B
+2611002;Petrolândia;4B;2613909;Serra Talhada;3A
+2611002;Petrolândia;4B;2601201;Arcoverde;3A
+2611002;Petrolândia;4B;2605707;Floresta;4B
+2611002;Petrolândia;4B;2608057;Jatobá;5
+2611002;Petrolândia;4B;2614808;Tacaratu;5
+2611101;Petrolina;2C;2611606;Recife;1C
+2611101;Petrolina;2C;2608750;Lagoa Grande;5
+2611101;Petrolina;2C;2612604;Santa Maria da Boa Vista;5
+2611101;Petrolina;2C;2612208;Salgueiro;3B
+2611101;Petrolina;2C;2603009;Cabrobó;5
+2611101;Petrolina;2C;2609808;Orocó;5
+2611101;Petrolina;2C;2604106;Caruaru;2B
+2611101;Petrolina;2C;2606408;Gravatá;4A
+2611101;Petrolina;2C;2613404;São José da Coroa Grande;5
+2611200;Poção;5;2610905;Pesqueira;4A
+2611200;Poção;5;2604106;Caruaru;2B
+2611200;Poção;5;2611606;Recife;1C
+2611200;Poção;5;2601201;Arcoverde;3A
+2611200;Poção;5;2601706;Belo Jardim;3B
+2611200;Poção;5;2612505;Santa Cruz do Capibaribe;3B
+2611200;Poção;5;2606002;Garanhuns;2C
+2611200;Poção;5;2608305;Jupi;5
+2611200;Poção;5;2608800;Lajedo;4B
+2611200;Poção;5;2612406;Sanharó;5
+2611200;Poção;5;2613008;São Bento do Una;5
+2611200;Poção;5;2602803;Buíque;5
+2611200;Poção;5;2615409;Toritama;5
+2611309;Pombos;5;2616407;Vitória de Santo Antão;3B
+2611309;Pombos;5;2611606;Recife;1C
+2611309;Pombos;5;2604106;Caruaru;2B
+2611309;Pombos;5;2606408;Gravatá;4A
+2611309;Pombos;5;2609402;Moreno;1C
+2611309;Pombos;5;2601904;Bezerros;5
+2611309;Pombos;5;2604502;Chã Grande;5
+2611408;Primavera;5;2611606;Recife;1C
+2611408;Primavera;5;2605202;Escada;3B
+2611408;Primavera;5;2600906;Amaraji;5
+2611408;Primavera;5;2604106;Caruaru;2B
+2611408;Primavera;5;2602902;Cabo de Santo Agostinho;1C
+2611408;Primavera;5;2610004;Palmares;3B
+2611408;Primavera;5;2607901;Jaboatão dos Guararapes;1C
+2611408;Primavera;5;2601300;Barra de Guabiraba;5
+2611408;Primavera;5;2611804;Ribeirão;5
+2611408;Primavera;5;2616407;Vitória de Santo Antão;3B
+2611408;Primavera;5;2613701;São Lourenço da Mata;1C
+2611408;Primavera;5;2600401;Água Preta;5
+2611408;Primavera;5;2604502;Chã Grande;5
+2611408;Primavera;5;2606408;Gravatá;4A
+2611507;Quipapá;5;2606002;Garanhuns;2C
+2611507;Quipapá;5;2611606;Recife;1C
+2611507;Quipapá;5;2604106;Caruaru;2B
+2611507;Quipapá;5;2612901;São Benedito do Sul;5
+2611507;Quipapá;5;2610004;Palmares;3B
+2611507;Quipapá;5;2605004;Cupira;5
+2611507;Quipapá;5;2603702;Canhotinho;5
+2611507;Quipapá;5;2601003;Angelim;5
+2611507;Quipapá;5;2610202;Panelas;5
+2611507;Quipapá;5;2613206;São João;5
+2611507;Quipapá;5;2609204;Maraial;5
+2611533;Quixaba;5;2600104;Afogados da Ingazeira;3B
+2611533;Quixaba;5;2603900;Carnaíba;5
+2611533;Quixaba;5;2611606;Recife;1C
+2611533;Quixaba;5;2613909;Serra Talhada;3A
+2611533;Quixaba;5;2601201;Arcoverde;3A
+2611533;Quixaba;5;2604106;Caruaru;2B
+2611533;Quixaba;5;2612505;Santa Cruz do Capibaribe;3B
+2611533;Quixaba;5;2606002;Garanhuns;2C
+2611705;Riacho das Almas;5;2604106;Caruaru;2B
+2611705;Riacho das Almas;5;2611606;Recife;1C
+2611705;Riacho das Almas;5;2604908;Cumaru;5
+2611705;Riacho das Almas;5;2601904;Bezerros;5
+2611705;Riacho das Almas;5;2610509;Passira;5
+2611705;Riacho das Almas;5;2606408;Gravatá;4A
+2611705;Riacho das Almas;5;2608909;Limoeiro;3B
+2611705;Riacho das Almas;5;2605806;Frei Miguelinho;5
+2611705;Riacho das Almas;5;2616407;Vitória de Santo Antão;3B
+2611705;Riacho das Almas;5;2606002;Garanhuns;2C
+2611804;Ribeirão;5;2611606;Recife;1C
+2611804;Ribeirão;5;2610004;Palmares;3B
+2611804;Ribeirão;5;2605202;Escada;3B
+2611804;Ribeirão;5;2602902;Cabo de Santo Agostinho;1C
+2611804;Ribeirão;5;2604106;Caruaru;2B
+2611804;Ribeirão;5;2605905;Gameleira;5
+2611804;Ribeirão;5;2616407;Vitória de Santo Antão;3B
+2611804;Ribeirão;5;2614857;Tamandaré;5
+2611804;Ribeirão;5;2600401;Água Preta;5
+2611804;Ribeirão;5;2615409;Toritama;5
+2611804;Ribeirão;5;2608206;Joaquim Nabuco;5
+2611804;Ribeirão;5;2613701;São Lourenço da Mata;1C
+2611804;Ribeirão;5;2604809;Cortês;5
+2611804;Ribeirão;5;2607901;Jaboatão dos Guararapes;1C
+2611903;Rio Formoso;5;2611606;Recife;1C
+2611903;Rio Formoso;5;2601409;Barreiros;4A
+2611903;Rio Formoso;5;2602902;Cabo de Santo Agostinho;1C
+2611903;Rio Formoso;5;2614857;Tamandaré;5
+2611903;Rio Formoso;5;2614204;Sirinhaém;5
+2611903;Rio Formoso;5;2607208;Ipojuca;1C
+2611903;Rio Formoso;5;2610004;Palmares;3B
+2611903;Rio Formoso;5;2604106;Caruaru;2B
+2611903;Rio Formoso;5;2612455;Santa Cruz;5
+2611903;Rio Formoso;5;2613701;São Lourenço da Mata;1C
+2611903;Rio Formoso;5;2607901;Jaboatão dos Guararapes;1C
+2612000;Sairé;5;2604106;Caruaru;2B
+2612000;Sairé;5;2611606;Recife;1C
+2612000;Sairé;5;2601904;Bezerros;5
+2612000;Sairé;5;2603504;Camocim de São Félix;5
+2612000;Sairé;5;2606408;Gravatá;4A
+2612000;Sairé;5;2602308;Bonito;5
+2612000;Sairé;5;2616407;Vitória de Santo Antão;3B
+2612000;Sairé;5;2604502;Chã Grande;5
+2612000;Sairé;5;2613305;São Joaquim do Monte;5
+2612109;Salgadinho;5;2611606;Recife;1C
+2612109;Salgadinho;5;2610509;Passira;5
+2612109;Salgadinho;5;2608909;Limoeiro;3B
+2612109;Salgadinho;5;2608107;João Alfredo;5
+2612109;Salgadinho;5;2616407;Vitória de Santo Antão;3B
+2612109;Salgadinho;5;2604106;Caruaru;2B
+2612109;Salgadinho;5;2604007;Carpina;3B
+2612109;Salgadinho;5;2612505;Santa Cruz do Capibaribe;3B
+2612109;Salgadinho;5;2615409;Toritama;5
+2612109;Salgadinho;5;2613701;São Lourenço da Mata;1C
+2612109;Salgadinho;5;2614501;Surubim;3B
+2612109;Salgadinho;5;2609501;Nazaré da Mata;5
+2612208;Salgueiro;3B;2611606;Recife;1C
+2612208;Salgueiro;3B;2611101;Petrolina;2C
+2612208;Salgueiro;3B;2613909;Serra Talhada;3A
+2612208;Salgueiro;3B;2603009;Cabrobó;5
+2612208;Salgueiro;3B;2614006;Serrita;5
+2612208;Salgueiro;3B;2604106;Caruaru;2B
+2612208;Salgueiro;3B;2612604;Santa Maria da Boa Vista;5
+2612208;Salgueiro;3B;2608750;Lagoa Grande;5
+2612208;Salgueiro;3B;2609907;Ouricuri;3A
+2612208;Salgueiro;3B;2601607;Belém do São Francisco;5
+2612208;Salgueiro;3B;2615706;Triunfo;5
+2612307;Saloá;5;2606002;Garanhuns;2C
+2612307;Saloá;5;2611606;Recife;1C
+2612307;Saloá;5;2604106;Caruaru;2B
+2612307;Saloá;5;2610301;Paranatama;5
+2612307;Saloá;5;2602100;Bom Conselho;5
+2612307;Saloá;5;2615102;Terezinha;5
+2612406;Sanharó;5;2604106;Caruaru;2B
+2612406;Sanharó;5;2610905;Pesqueira;4A
+2612406;Sanharó;5;2611606;Recife;1C
+2612406;Sanharó;5;2601706;Belo Jardim;3B
+2612406;Sanharó;5;2614857;Tamandaré;5
+2612406;Sanharó;5;2601201;Arcoverde;3A
+2612406;Sanharó;5;2612208;Salgueiro;3B
+2612406;Sanharó;5;2613909;Serra Talhada;3A
+2612455;Santa Cruz;5;2609907;Ouricuri;3A
+2612455;Santa Cruz;5;2611101;Petrolina;2C
+2612455;Santa Cruz;5;2601102;Araripina;3B
+2612455;Santa Cruz;5;2615607;Trindade;5
+2612455;Santa Cruz;5;2608750;Lagoa Grande;5
+2612455;Santa Cruz;5;2605152;Dormentes;5
+2612455;Santa Cruz;5;2612554;Santa Filomena;5
+2612471;Santa Cruz da Baixa Verde;5;2613909;Serra Talhada;3A
+2612471;Santa Cruz da Baixa Verde;5;2615706;Triunfo;5
+2612471;Santa Cruz da Baixa Verde;5;2611606;Recife;1C
+2612471;Santa Cruz da Baixa Verde;5;2600104;Afogados da Ingazeira;3B
+2612471;Santa Cruz da Baixa Verde;5;2601201;Arcoverde;3A
+2612471;Santa Cruz da Baixa Verde;5;2604106;Caruaru;2B
+2612471;Santa Cruz da Baixa Verde;5;2612208;Salgueiro;3B
+2612471;Santa Cruz da Baixa Verde;5;2611101;Petrolina;2C
+2612471;Santa Cruz da Baixa Verde;5;2605608;Flores;5
+2612505;Santa Cruz do Capibaribe;3B;2604106;Caruaru;2B
+2612505;Santa Cruz do Capibaribe;3B;2611606;Recife;1C
+2612505;Santa Cruz do Capibaribe;3B;2615409;Toritama;5
+2612505;Santa Cruz do Capibaribe;3B;2615003;Taquaritinga do Norte;5
+2612505;Santa Cruz do Capibaribe;3B;2614501;Surubim;3B
+2612505;Santa Cruz do Capibaribe;3B;2616209;Vertentes;5
+2612505;Santa Cruz do Capibaribe;3B;2606002;Garanhuns;2C
+2612505;Santa Cruz do Capibaribe;3B;2601201;Arcoverde;3A
+2612554;Santa Filomena;5;2611101;Petrolina;2C
+2612554;Santa Filomena;5;2609907;Ouricuri;3A
+2612554;Santa Filomena;5;2601102;Araripina;3B
+2612554;Santa Filomena;5;2605152;Dormentes;5
+2612554;Santa Filomena;5;2611606;Recife;1C
+2612554;Santa Filomena;5;2612455;Santa Cruz;5
+2612554;Santa Filomena;5;2608750;Lagoa Grande;5
+2612554;Santa Filomena;5;2601805;Betânia;5
+2612604;Santa Maria da Boa Vista;5;2611101;Petrolina;2C
+2612604;Santa Maria da Boa Vista;5;2611606;Recife;1C
+2612604;Santa Maria da Boa Vista;5;2608750;Lagoa Grande;5
+2612604;Santa Maria da Boa Vista;5;2601607;Belém do São Francisco;5
+2612604;Santa Maria da Boa Vista;5;2603009;Cabrobó;5
+2612604;Santa Maria da Boa Vista;5;2612208;Salgueiro;3B
+2612604;Santa Maria da Boa Vista;5;2609808;Orocó;5
+2612604;Santa Maria da Boa Vista;5;2604106;Caruaru;2B
+2612703;Santa Maria do Cambucá;5;2614501;Surubim;3B
+2612703;Santa Maria do Cambucá;5;2604106;Caruaru;2B
+2612703;Santa Maria do Cambucá;5;2611606;Recife;1C
+2612703;Santa Maria do Cambucá;5;2615409;Toritama;5
+2612703;Santa Maria do Cambucá;5;2612505;Santa Cruz do Capibaribe;3B
+2612703;Santa Maria do Cambucá;5;2608909;Limoeiro;3B
+2612703;Santa Maria do Cambucá;5;2616407;Vitória de Santo Antão;3B
+2612703;Santa Maria do Cambucá;5;2616209;Vertentes;5
+2612802;Santa Terezinha;5;2600104;Afogados da Ingazeira;3B
+2612802;Santa Terezinha;5;2613602;São José do Egito;4B
+2612802;Santa Terezinha;5;2611606;Recife;1C
+2612802;Santa Terezinha;5;2604106;Caruaru;2B
+2612802;Santa Terezinha;5;2612505;Santa Cruz do Capibaribe;3B
+2612802;Santa Terezinha;5;2607703;Itapetim;5
+2612802;Santa Terezinha;5;2615409;Toritama;5
+2612802;Santa Terezinha;5;2614600;Tabira;4B
+2612802;Santa Terezinha;5;2601201;Arcoverde;3A
+2612802;Santa Terezinha;5;2602506;Brejinho;5
+2612802;Santa Terezinha;5;2613909;Serra Talhada;3A
+2612901;São Benedito do Sul;5;2611606;Recife;1C
+2612901;São Benedito do Sul;5;2604106;Caruaru;2B
+2612901;São Benedito do Sul;5;2610004;Palmares;3B
+2612901;São Benedito do Sul;5;2606002;Garanhuns;2C
+2612901;São Benedito do Sul;5;2611507;Quipapá;5
+2612901;São Benedito do Sul;5;2605004;Cupira;5
+2612901;São Benedito do Sul;5;2607950;Jaqueira;5
+2612901;São Benedito do Sul;5;2601003;Angelim;5
+2612901;São Benedito do Sul;5;2603702;Canhotinho;5
+2612901;São Benedito do Sul;5;2613206;São João;5
+2613008;São Bento do Una;5;2604106;Caruaru;2B
+2613008;São Bento do Una;5;2611606;Recife;1C
+2613008;São Bento do Una;5;2601706;Belo Jardim;3B
+2613008;São Bento do Una;5;2606002;Garanhuns;2C
+2613008;São Bento do Una;5;2614857;Tamandaré;5
+2613008;São Bento do Una;5;2608800;Lajedo;4B
+2613008;São Bento do Una;5;2610905;Pesqueira;4A
+2613008;São Bento do Una;5;2603801;Capoeiras;5
+2613008;São Bento do Una;5;2612505;Santa Cruz do Capibaribe;3B
+2613008;São Bento do Una;5;2609600;Olinda;1C
+2613107;São Caitano;5;2604106;Caruaru;2B
+2613107;São Caitano;5;2611606;Recife;1C
+2613107;São Caitano;5;2601706;Belo Jardim;3B
+2613107;São Caitano;5;2612505;Santa Cruz do Capibaribe;3B
+2613107;São Caitano;5;2615409;Toritama;5
+2613107;São Caitano;5;2606408;Gravatá;4A
+2613107;São Caitano;5;2603108;Cachoeirinha;5
+2613107;São Caitano;5;2614709;Tacaimbó;5
+2613107;São Caitano;5;2606002;Garanhuns;2C
+2613107;São Caitano;5;2601904;Bezerros;5
+2613206;São João;5;2606002;Garanhuns;2C
+2613206;São João;5;2611606;Recife;1C
+2613206;São João;5;2604106;Caruaru;2B
+2613206;São João;5;2603702;Canhotinho;5
+2613206;São João;5;2601003;Angelim;5
+2613206;São João;5;2610103;Palmeirina;5
+2613206;São João;5;2611507;Quipapá;5
+2613206;São João;5;2601706;Belo Jardim;3B
+2613206;São João;5;2612455;Santa Cruz;5
+2613206;São João;5;2615409;Toritama;5
+2613305;São Joaquim do Monte;5;2604106;Caruaru;2B
+2613305;São Joaquim do Monte;5;2611606;Recife;1C
+2613305;São Joaquim do Monte;5;2603504;Camocim de São Félix;5
+2613305;São Joaquim do Monte;5;2600302;Agrestina;5
+2613305;São Joaquim do Monte;5;2602308;Bonito;5
+2613305;São Joaquim do Monte;5;2613701;São Lourenço da Mata;1C
+2613305;São Joaquim do Monte;5;2601904;Bezerros;5
+2613305;São Joaquim do Monte;5;2612455;Santa Cruz;5
+2613404;São José da Coroa Grande;5;2611606;Recife;1C
+2613404;São José da Coroa Grande;5;2601409;Barreiros;4A
+2613404;São José da Coroa Grande;5;2614857;Tamandaré;5
+2613404;São José da Coroa Grande;5;2610004;Palmares;3B
+2613404;São José da Coroa Grande;5;2600401;Água Preta;5
+2613404;São José da Coroa Grande;5;2607208;Ipojuca;1C
+2613404;São José da Coroa Grande;5;2611903;Rio Formoso;5
+2613404;São José da Coroa Grande;5;2614204;Sirinhaém;5
+2613404;São José da Coroa Grande;5;2604106;Caruaru;2B
+2613503;São José do Belmonte;5;2613909;Serra Talhada;3A
+2613503;São José do Belmonte;5;2611606;Recife;1C
+2613503;São José do Belmonte;5;2612208;Salgueiro;3B
+2613503;São José do Belmonte;5;2611101;Petrolina;2C
+2613503;São José do Belmonte;5;2604106;Caruaru;2B
+2613503;São José do Belmonte;5;2615706;Triunfo;5
+2613503;São José do Belmonte;5;2609303;Mirandiba;5
+2613602;São José do Egito;4B;2611606;Recife;1C
+2613602;São José do Egito;4B;2600104;Afogados da Ingazeira;3B
+2613602;São José do Egito;4B;2615904;Tuparetama;5
+2613602;São José do Egito;4B;2607703;Itapetim;5
+2613602;São José do Egito;4B;2614600;Tabira;4B
+2613602;São José do Egito;4B;2612505;Santa Cruz do Capibaribe;3B
+2613602;São José do Egito;4B;2604106;Caruaru;2B
+2613602;São José do Egito;4B;2615409;Toritama;5
+2613602;São José do Egito;4B;2613909;Serra Talhada;3A
+2613602;São José do Egito;4B;2606002;Garanhuns;2C
+2613701;São Lourenço da Mata;1C;2611606;Recife;1C
+2613701;São Lourenço da Mata;1C;2603454;Camaragibe;1C
+2613701;São Lourenço da Mata;1C;2610608;Paudalho;1C
+2613701;São Lourenço da Mata;1C;2604007;Carpina;3B
+2613701;São Lourenço da Mata;1C;2609501;Nazaré da Mata;5
+2613701;São Lourenço da Mata;1C;2608453;Lagoa do Carro;5
+2613701;São Lourenço da Mata;1C;2608909;Limoeiro;3B
+2613701;São Lourenço da Mata;1C;2614501;Surubim;3B
+2613800;São Vicente Férrer;5;2611606;Recife;1C
+2613800;São Vicente Férrer;5;2615300;Timbaúba;3B
+2613800;São Vicente Férrer;5;2609006;Macaparana;5
+2613800;São Vicente Férrer;5;2604007;Carpina;3B
+2613800;São Vicente Férrer;5;2609501;Nazaré da Mata;5
+2613800;São Vicente Férrer;5;2604106;Caruaru;2B
+2613800;São Vicente Férrer;5;2615409;Toritama;5
+2613800;São Vicente Férrer;5;2608909;Limoeiro;3B
+2613800;São Vicente Férrer;5;2610608;Paudalho;1C
+2613800;São Vicente Férrer;5;2615508;Tracunhaém;5
+2613800;São Vicente Férrer;5;2603454;Camaragibe;1C
+2613800;São Vicente Férrer;5;2606200;Goiana;3B
+2613800;São Vicente Férrer;5;2612455;Santa Cruz;5
+2613800;São Vicente Férrer;5;2616308;Vicência;5
+2613800;São Vicente Férrer;5;2607653;Itambé;5
+2613800;São Vicente Férrer;5;2608107;João Alfredo;5
+2613909;Serra Talhada;3A;2611606;Recife;1C
+2613909;Serra Talhada;3A;2604106;Caruaru;2B
+2613909;Serra Talhada;3A;2612208;Salgueiro;3B
+2613909;Serra Talhada;3A;2601201;Arcoverde;3A
+2613909;Serra Talhada;3A;2615706;Triunfo;5
+2613909;Serra Talhada;3A;2600104;Afogados da Ingazeira;3B
+2613909;Serra Talhada;3A;2611101;Petrolina;2C
+2613909;Serra Talhada;3A;2603405;Calumbi;5
+2613909;Serra Talhada;3A;2605608;Flores;5
+2613909;Serra Talhada;3A;2605707;Floresta;4B
+2613909;Serra Talhada;3A;2615409;Toritama;5
+2613909;Serra Talhada;3A;2606002;Garanhuns;2C
+2613909;Serra Talhada;3A;2612505;Santa Cruz do Capibaribe;3B
+2614006;Serrita;5;2612208;Salgueiro;3B
+2614006;Serrita;5;2611606;Recife;1C
+2614006;Serrita;5;2611101;Petrolina;2C
+2614006;Serrita;5;2614303;Moreilândia;5
+2614006;Serrita;5;2604304;Cedro;5
+2614006;Serrita;5;2610400;Parnamirim;5
+2614006;Serrita;5;2609907;Ouricuri;3A
+2614006;Serrita;5;2601607;Belém do São Francisco;5
+2614006;Serrita;5;2613909;Serra Talhada;3A
+2614006;Serrita;5;2606309;Granito;5
+2614006;Serrita;5;2602001;Bodocó;5
+2614006;Serrita;5;2604106;Caruaru;2B
+2614006;Serrita;5;2605301;Exu;5
+2614105;Sertânia;5;2601201;Arcoverde;3A
+2614105;Sertânia;5;2611606;Recife;1C
+2614105;Sertânia;5;2604106;Caruaru;2B
+2614105;Sertânia;5;2600104;Afogados da Ingazeira;3B
+2614105;Sertânia;5;2605103;Custódia;5
+2614105;Sertânia;5;2613909;Serra Talhada;3A
+2614105;Sertânia;5;2606903;Iguaracy;5
+2614105;Sertânia;5;2612505;Santa Cruz do Capibaribe;3B
+2614105;Sertânia;5;2615409;Toritama;5
+2614204;Sirinhaém;5;2611606;Recife;1C
+2614204;Sirinhaém;5;2602902;Cabo de Santo Agostinho;1C
+2614204;Sirinhaém;5;2601409;Barreiros;4A
+2614204;Sirinhaém;5;2607208;Ipojuca;1C
+2614204;Sirinhaém;5;2611903;Rio Formoso;5
+2614204;Sirinhaém;5;2607901;Jaboatão dos Guararapes;1C
+2614204;Sirinhaém;5;2610004;Palmares;3B
+2614204;Sirinhaém;5;2604106;Caruaru;2B
+2614204;Sirinhaém;5;2614857;Tamandaré;5
+2614303;Moreilândia;5;2605301;Exu;5
+2614303;Moreilândia;5;2612208;Salgueiro;3B
+2614303;Moreilândia;5;2609907;Ouricuri;3A
+2614303;Moreilândia;5;2611606;Recife;1C
+2614303;Moreilândia;5;2606309;Granito;5
+2614303;Moreilândia;5;2601102;Araripina;3B
+2614303;Moreilândia;5;2613909;Serra Talhada;3A
+2614303;Moreilândia;5;2604106;Caruaru;2B
+2614402;Solidão;5;2600104;Afogados da Ingazeira;3B
+2614402;Solidão;5;2614600;Tabira;4B
+2614402;Solidão;5;2611606;Recife;1C
+2614402;Solidão;5;2604106;Caruaru;2B
+2614402;Solidão;5;2613909;Serra Talhada;3A
+2614402;Solidão;5;2612505;Santa Cruz do Capibaribe;3B
+2614402;Solidão;5;2613602;São José do Egito;4B
+2614402;Solidão;5;2615409;Toritama;5
+2614402;Solidão;5;2611101;Petrolina;2C
+2614402;Solidão;5;2601201;Arcoverde;3A
+2614501;Surubim;3B;2611606;Recife;1C
+2614501;Surubim;3B;2604106;Caruaru;2B
+2614501;Surubim;3B;2608909;Limoeiro;3B
+2614501;Surubim;3B;2604007;Carpina;3B
+2614501;Surubim;3B;2612505;Santa Cruz do Capibaribe;3B
+2614501;Surubim;3B;2615409;Toritama;5
+2614501;Surubim;3B;2610608;Paudalho;1C
+2614501;Surubim;3B;2616209;Vertentes;5
+2614501;Surubim;3B;2604155;Casinhas;5
+2614501;Surubim;3B;2609501;Nazaré da Mata;5
+2614501;Surubim;3B;2608107;João Alfredo;5
+2614501;Surubim;3B;2616407;Vitória de Santo Antão;3B
+2614501;Surubim;3B;2601904;Bezerros;5
+2614600;Tabira;4B;2611606;Recife;1C
+2614600;Tabira;4B;2600104;Afogados da Ingazeira;3B
+2614600;Tabira;4B;2613909;Serra Talhada;3A
+2614600;Tabira;4B;2604106;Caruaru;2B
+2614600;Tabira;4B;2613602;São José do Egito;4B
+2614600;Tabira;4B;2612455;Santa Cruz;5
+2614600;Tabira;4B;2601201;Arcoverde;3A
+2614600;Tabira;4B;2615409;Toritama;5
+2614600;Tabira;4B;2612505;Santa Cruz do Capibaribe;3B
+2614709;Tacaimbó;5;2604106;Caruaru;2B
+2614709;Tacaimbó;5;2611606;Recife;1C
+2614709;Tacaimbó;5;2601706;Belo Jardim;3B
+2614709;Tacaimbó;5;2601201;Arcoverde;3A
+2614709;Tacaimbó;5;2606002;Garanhuns;2C
+2614709;Tacaimbó;5;2614857;Tamandaré;5
+2614709;Tacaimbó;5;2610905;Pesqueira;4A
+2614709;Tacaimbó;5;2613107;São Caitano;5
+2614709;Tacaimbó;5;2600302;Agrestina;5
+2614808;Tacaratu;5;2611002;Petrolândia;4B
+2614808;Tacaratu;5;2611606;Recife;1C
+2614808;Tacaratu;5;2601201;Arcoverde;3A
+2614808;Tacaratu;5;2607000;Inajá;5
+2614808;Tacaratu;5;2605707;Floresta;4B
+2614808;Tacaratu;5;2613909;Serra Talhada;3A
+2614808;Tacaratu;5;2608057;Jatobá;5
+2614808;Tacaratu;5;2604106;Caruaru;2B
+2614808;Tacaratu;5;2606606;Ibimirim;5
+2614857;Tamandaré;5;2611606;Recife;1C
+2614857;Tamandaré;5;2601409;Barreiros;4A
+2614857;Tamandaré;5;2610004;Palmares;3B
+2614857;Tamandaré;5;2611903;Rio Formoso;5
+2614857;Tamandaré;5;2604106;Caruaru;2B
+2614857;Tamandaré;5;2602902;Cabo de Santo Agostinho;1C
+2614857;Tamandaré;5;2607208;Ipojuca;1C
+2614857;Tamandaré;5;2614204;Sirinhaém;5
+2614857;Tamandaré;5;2613404;São José da Coroa Grande;5
+2614857;Tamandaré;5;2604205;Catende;5
+2614857;Tamandaré;5;2605004;Cupira;5
+2615003;Taquaritinga do Norte;5;2611606;Recife;1C
+2615003;Taquaritinga do Norte;5;2612505;Santa Cruz do Capibaribe;3B
+2615003;Taquaritinga do Norte;5;2604106;Caruaru;2B
+2615003;Taquaritinga do Norte;5;2616209;Vertentes;5
+2615003;Taquaritinga do Norte;5;2615409;Toritama;5
+2615003;Taquaritinga do Norte;5;2614501;Surubim;3B
+2615003;Taquaritinga do Norte;5;2603454;Camaragibe;1C
+2615003;Taquaritinga do Norte;5;2608909;Limoeiro;3B
+2615003;Taquaritinga do Norte;5;2613701;São Lourenço da Mata;1C
+2615102;Terezinha;5;2606002;Garanhuns;2C
+2615102;Terezinha;5;2611606;Recife;1C
+2615102;Terezinha;5;2602100;Bom Conselho;5
+2615102;Terezinha;5;2602407;Brejão;5
+2615102;Terezinha;5;2604106;Caruaru;2B
+2615102;Terezinha;5;2612307;Saloá;5
+2615201;Terra Nova;5;2612208;Salgueiro;3B
+2615201;Terra Nova;5;2611101;Petrolina;2C
+2615201;Terra Nova;5;2611606;Recife;1C
+2615201;Terra Nova;5;2610400;Parnamirim;5
+2615201;Terra Nova;5;2603009;Cabrobó;5
+2615201;Terra Nova;5;2614006;Serrita;5
+2615201;Terra Nova;5;2609907;Ouricuri;3A
+2615300;Timbaúba;3B;2611606;Recife;1C
+2615300;Timbaúba;3B;2604007;Carpina;3B
+2615300;Timbaúba;3B;2609501;Nazaré da Mata;5
+2615300;Timbaúba;3B;2600708;Aliança;5
+2615300;Timbaúba;3B;2615508;Tracunhaém;5
+2615300;Timbaúba;3B;2604106;Caruaru;2B
+2615300;Timbaúba;3B;2615409;Toritama;5
+2615300;Timbaúba;3B;2610608;Paudalho;1C
+2615300;Timbaúba;3B;2603454;Camaragibe;1C
+2615300;Timbaúba;3B;2606200;Goiana;3B
+2615300;Timbaúba;3B;2608909;Limoeiro;3B
+2615300;Timbaúba;3B;2612455;Santa Cruz;5
+2615300;Timbaúba;3B;2609600;Olinda;1C
+2615300;Timbaúba;3B;2607653;Itambé;5
+2615409;Toritama;5;2604106;Caruaru;2B
+2615409;Toritama;5;2611606;Recife;1C
+2615409;Toritama;5;2612505;Santa Cruz do Capibaribe;3B
+2615409;Toritama;5;2616209;Vertentes;5
+2615409;Toritama;5;2614501;Surubim;3B
+2615409;Toritama;5;2605806;Frei Miguelinho;5
+2615409;Toritama;5;2615003;Taquaritinga do Norte;5
+2615508;Tracunhaém;5;2611606;Recife;1C
+2615508;Tracunhaém;5;2604007;Carpina;3B
+2615508;Tracunhaém;5;2609501;Nazaré da Mata;5
+2615508;Tracunhaém;5;2608909;Limoeiro;3B
+2615508;Tracunhaém;5;2610608;Paudalho;1C
+2615508;Tracunhaém;5;2613701;São Lourenço da Mata;1C
+2615508;Tracunhaém;5;2603454;Camaragibe;1C
+2615508;Tracunhaém;5;2615300;Timbaúba;3B
+2615508;Tracunhaém;5;2611101;Petrolina;2C
+2615607;Trindade;5;2601102;Araripina;3B
+2615607;Trindade;5;2609907;Ouricuri;3A
+2615607;Trindade;5;2611101;Petrolina;2C
+2615607;Trindade;5;2611606;Recife;1C
+2615607;Trindade;5;2612455;Santa Cruz;5
+2615607;Trindade;5;2608750;Lagoa Grande;5
+2615607;Trindade;5;2607307;Ipubi;5
+2615607;Trindade;5;2612208;Salgueiro;3B
+2615706;Triunfo;5;2613909;Serra Talhada;3A
+2615706;Triunfo;5;2611606;Recife;1C
+2615706;Triunfo;5;2612471;Santa Cruz da Baixa Verde;5
+2615706;Triunfo;5;2600104;Afogados da Ingazeira;3B
+2615706;Triunfo;5;2604106;Caruaru;2B
+2615706;Triunfo;5;2612208;Salgueiro;3B
+2615706;Triunfo;5;2601201;Arcoverde;3A
+2615706;Triunfo;5;2603900;Carnaíba;5
+2615706;Triunfo;5;2611101;Petrolina;2C
+2615706;Triunfo;5;2605608;Flores;5
+2615805;Tupanatinga;5;2601201;Arcoverde;3A
+2615805;Tupanatinga;5;2611606;Recife;1C
+2615805;Tupanatinga;5;2602803;Buíque;5
+2615805;Tupanatinga;5;2604106;Caruaru;2B
+2615805;Tupanatinga;5;2607505;Itaíba;5
+2615805;Tupanatinga;5;2606002;Garanhuns;2C
+2615805;Tupanatinga;5;2609154;Manari;5
+2615805;Tupanatinga;5;2600500;Águas Belas;5
+2615904;Tuparetama;5;2611606;Recife;1C
+2615904;Tuparetama;5;2613602;São José do Egito;4B
+2615904;Tuparetama;5;2600104;Afogados da Ingazeira;3B
+2615904;Tuparetama;5;2601201;Arcoverde;3A
+2615904;Tuparetama;5;2604106;Caruaru;2B
+2615904;Tuparetama;5;2614600;Tabira;4B
+2615904;Tuparetama;5;2613909;Serra Talhada;3A
+2615904;Tuparetama;5;2612505;Santa Cruz do Capibaribe;3B
+2615904;Tuparetama;5;2614105;Sertânia;5
+2615904;Tuparetama;5;2612455;Santa Cruz;5
+2615904;Tuparetama;5;2607109;Ingazeira;5
+2615904;Tuparetama;5;2607703;Itapetim;5
+2615904;Tuparetama;5;2615003;Taquaritinga do Norte;5
+2615904;Tuparetama;5;2615409;Toritama;5
+2616001;Venturosa;5;2601201;Arcoverde;3A
+2616001;Venturosa;5;2611606;Recife;1C
+2616001;Venturosa;5;2606002;Garanhuns;2C
+2616001;Venturosa;5;2604106;Caruaru;2B
+2616001;Venturosa;5;2610806;Pedra;5
+2616001;Venturosa;5;2603207;Caetés;5
+2616001;Venturosa;5;2610905;Pesqueira;4A
+2616001;Venturosa;5;2603801;Capoeiras;5
+2616001;Venturosa;5;2600609;Alagoinha;5
+2616001;Venturosa;5;2613909;Serra Talhada;3A
+2616001;Venturosa;5;2612505;Santa Cruz do Capibaribe;3B
+2616001;Venturosa;5;2602100;Bom Conselho;5
+2616100;Verdejante;5;2612208;Salgueiro;3B
+2616100;Verdejante;5;2611606;Recife;1C
+2616100;Verdejante;5;2611101;Petrolina;2C
+2616100;Verdejante;5;2613909;Serra Talhada;3A
+2616100;Verdejante;5;2613503;São José do Belmonte;5
+2616100;Verdejante;5;2601607;Belém do São Francisco;5
+2616100;Verdejante;5;2609303;Mirandiba;5
+2616100;Verdejante;5;2614006;Serrita;5
+2616183;Vertente do Lério;5;2614501;Surubim;3B
+2616183;Vertente do Lério;5;2611606;Recife;1C
+2616183;Vertente do Lério;5;2604106;Caruaru;2B
+2616183;Vertente do Lério;5;2615409;Toritama;5
+2616183;Vertente do Lério;5;2612505;Santa Cruz do Capibaribe;3B
+2616183;Vertente do Lério;5;2608909;Limoeiro;3B
+2616183;Vertente do Lério;5;2604007;Carpina;3B
+2616183;Vertente do Lério;5;2609709;Orobó;5
+2616209;Vertentes;5;2604106;Caruaru;2B
+2616209;Vertentes;5;2611606;Recife;1C
+2616209;Vertentes;5;2614501;Surubim;3B
+2616209;Vertentes;5;2615409;Toritama;5
+2616209;Vertentes;5;2612505;Santa Cruz do Capibaribe;3B
+2616209;Vertentes;5;2615003;Taquaritinga do Norte;5
+2616308;Vicência;5;2611606;Recife;1C
+2616308;Vicência;5;2604007;Carpina;3B
+2616308;Vicência;5;2609501;Nazaré da Mata;5
+2616308;Vicência;5;2608909;Limoeiro;3B
+2616308;Vicência;5;2615300;Timbaúba;3B
+2616308;Vicência;5;2603454;Camaragibe;1C
+2616308;Vicência;5;2610608;Paudalho;1C
+2616308;Vicência;5;2613800;São Vicente Férrer;5
+2616308;Vicência;5;2615508;Tracunhaém;5
+2616308;Vicência;5;2606200;Goiana;3B
+2616407;Vitória de Santo Antão;3B;2611606;Recife;1C
+2616407;Vitória de Santo Antão;3B;2604106;Caruaru;2B
+2616407;Vitória de Santo Antão;3B;2607901;Jaboatão dos Guararapes;1C
+2616407;Vitória de Santo Antão;3B;2606408;Gravatá;4A
+2616407;Vitória de Santo Antão;3B;2611309;Pombos;5
+2616407;Vitória de Santo Antão;3B;2609402;Moreno;1C
+2616407;Vitória de Santo Antão;3B;2606101;Glória do Goitá;5
+2616407;Vitória de Santo Antão;3B;2612505;Santa Cruz do Capibaribe;3B
+2616506;Xexéu;5;2611606;Recife;1C
+2616506;Xexéu;5;2610004;Palmares;3B
+2616506;Xexéu;5;2604106;Caruaru;2B
+2616506;Xexéu;5;2602902;Cabo de Santo Agostinho;1C
+2616506;Xexéu;5;2605202;Escada;3B
+2616506;Xexéu;5;2611804;Ribeirão;5
+2604106;Caruaru;2B;;;
+2611606;Recife;1C;;;
+2607901;Jaboatão dos Guararapes;1C;;;

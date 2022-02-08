@@ -1,0 +1,186 @@
+CD_MUN,NM_MUN,SIGLA_UF,AREA_KM2,xCentroide,yCentroide,rgi,nome_rgi
+"2600054",Abreu e Lima,PE,126.384,-35.019,-7.88,"260001",Recife
+"2600104",Afogados da Ingazeira,PE,377.696,-37.62,-7.737,"260014",Afogados da Ingazeira
+"2600203",Afrânio,PE,1490.594,-41.005,-8.619,"260015",Petrolina
+"2600302",Agrestina,PE,200.369,-35.945,-8.457,"260009",Caruaru
+"2600401",Água Preta,PE,533.332,-35.482,-8.729,"260003",Palmares
+"2600500",Águas Belas,PE,885.988,-37.039,-9.087,"260010",Garanhuns
+"2600609",Alagoinha,PE,216.452,-36.755,-8.494,"260012",Belo Jardim – Pesqueira
+"2600708",Aliança,PE,272.773,-35.193,-7.603,"260002",Goiana – Timbaúba
+"2600807",Altinho,PE,450.178,-36.099,-8.491,"260009",Caruaru
+"2600906",Amaraji,PE,234.956,-35.466,-8.365,"260018",Escada - Ribeirão
+"2601003",Angelim,PE,118.037,-36.277,-8.892,"260010",Garanhuns
+"2601052",Araçoiaba,PE,96.36,-35.076,-7.793,"260001",Recife
+"2601102",Araripina,PE,2037.394,-40.485,-7.608,"260016",Araripina
+"2601201",Arcoverde,PE,323.37,-37.01,-8.385,"260011",Arcoverde
+"2601300",Barra de Guabiraba,PE,120.583,-35.632,-8.416,"260009",Caruaru
+"2601409",Barreiros,PE,233.433,-35.259,-8.82,"260007",Barreiros - Sirinhaém
+"2601508",Belém de Maria,PE,75.142,-35.815,-8.605,"260003",Palmares
+"2601607",Belém do São Francisco,PE,1830.797,-38.982,-8.584,"260017",Salgueiro
+"2601706",Belo Jardim,PE,647.696,-36.405,-8.259,"260012",Belo Jardim – Pesqueira
+"2601805",Betânia,PE,1244.074,-37.988,-8.265,"260013",Serra Talhada
+"2601904",Bezerros,PE,492.632,-35.782,-8.218,"260009",Caruaru
+"2602001",Bodocó,PE,1621.786,-39.965,-7.656,"260016",Araripina
+"2602100",Bom Conselho,PE,792.185,-36.684,-9.203,"260010",Garanhuns
+"2602209",Bom Jardim,PE,224.12,-35.589,-7.787,"260004",Limoeiro
+"2602308",Bonito,PE,390.107,-35.708,-8.495,"260009",Caruaru
+"2602407",Brejão,PE,159.786,-36.53,-9.027,"260010",Garanhuns
+"2602506",Brejinho,PE,106.275,-37.321,-7.337,"260014",Afogados da Ingazeira
+"2602605",Brejo da Madre de Deus,PE,762.346,-36.281,-8.076,"260009",Caruaru
+"2602704",Buenos Aires,PE,93.187,-35.347,-7.738,"260006",Carpina
+"2602803",Buíque,PE,1320.87,-37.121,-8.649,"260011",Arcoverde
+"2602902",Cabo de Santo Agostinho,PE,445.343,-35.086,-8.269,"260001",Recife
+"2603009",Cabrobó,PE,1658.616,-39.329,-8.386,"260017",Salgueiro
+"2603108",Cachoeirinha,PE,179.262,-36.291,-8.485,"260009",Caruaru
+"2603207",Caetés,PE,294.946,-36.659,-8.804,"260010",Garanhuns
+"2603306",Calçado,PE,121.945,-36.322,-8.751,"260010",Garanhuns
+"2603405",Calumbi,PE,179.314,-38.079,-8.004,"260013",Serra Talhada
+"2603454",Camaragibe,PE,51.321,-34.996,-7.987,"260001",Recife
+"2603504",Camocim de São Félix,PE,71.985,-35.772,-8.35,"260009",Caruaru
+"2603603",Camutanga,PE,39.116,-35.299,-7.434,"260002",Goiana – Timbaúba
+"2603702",Canhotinho,PE,423.168,-36.177,-8.893,"260010",Garanhuns
+"2603801",Capoeiras,PE,336.329,-36.599,-8.687,"260010",Garanhuns
+"2603900",Carnaíba,PE,427.802,-37.727,-7.796,"260014",Afogados da Ingazeira
+"2603926",Carnaubeira da Penha,PE,1004.667,-38.722,-8.409,"260013",Serra Talhada
+"2604007",Carpina,PE,147.017,-35.306,-7.819,"260006",Carpina
+"2604106",Caruaru,PE,923.15,-36.017,-8.181,"260009",Caruaru
+"2604155",Casinhas,PE,115.868,-35.721,-7.756,"260008",Surubim
+"2604205",Catende,PE,207.244,-35.73,-8.676,"260003",Palmares
+"2604304",Cedro,PE,148.746,-39.204,-7.744,"260017",Salgueiro
+"2604403",Chã de Alegria,PE,48.993,-35.222,-7.999,"260005",Vitória de Santo Antão
+"2604502",Chã Grande,PE,84.848,-35.474,-8.23,"260009",Caruaru
+"2604601",Condado,PE,89.645,-35.099,-7.596,"260002",Goiana – Timbaúba
+"2604700",Correntes,PE,317.793,-36.339,-9.115,"260010",Garanhuns
+"2604809",Cortês,PE,101.316,-35.531,-8.433,"260018",Escada - Ribeirão
+"2604908",Cumaru,PE,292.231,-35.721,-8.04,"260009",Caruaru
+"2605004",Cupira,PE,95.155,-35.931,-8.583,"260009",Caruaru
+"2605103",Custódia,PE,1404.126,-37.682,-8.174,"260011",Arcoverde
+"2605152",Dormentes,PE,1539.052,-40.62,-8.496,"260015",Petrolina
+"2605202",Escada,PE,342.201,-35.265,-8.37,"260018",Escada - Ribeirão
+"2605301",Exu,PE,1336.786,-39.748,-7.516,"260016",Araripina
+"2605400",Feira Nova,PE,107.726,-35.383,-7.953,"260004",Limoeiro
+"2605459",Fernando de Noronha,PE,18.609,-32.424,-3.854,"260001",Recife
+"2605509",Ferreiros,PE,92.516,-35.245,-7.478,"260002",Goiana – Timbaúba
+"2605608",Flores,PE,995.558,-37.895,-7.94,"260013",Serra Talhada
+"2605707",Floresta,PE,3644.169,-38.306,-8.567,"260013",Serra Talhada
+"2605806",Frei Miguelinho,PE,212.707,-35.885,-7.935,"260008",Surubim
+"2605905",Gameleira,PE,255.961,-35.393,-8.613,"260003",Palmares
+"2606002",Garanhuns,PE,458.552,-36.501,-8.929,"260010",Garanhuns
+"2606101",Glória do Goitá,PE,234.214,-35.338,-8.013,"260005",Vitória de Santo Antão
+"2606200",Goiana,PE,445.405,-34.942,-7.597,"260002",Goiana – Timbaúba
+"2606309",Granito,PE,521.69,-39.694,-7.788,"260016",Araripina
+"2606408",Gravatá,PE,503.946,-35.564,-8.198,"260009",Caruaru
+"2606507",Iati,PE,635.137,-36.901,-9.143,"260010",Garanhuns
+"2606606",Ibimirim,PE,1906.437,-37.608,-8.592,"260011",Arcoverde
+"2606705",Ibirajuba,PE,189.596,-36.201,-8.613,"260009",Caruaru
+"2606804",Igarassu,PE,306.879,-34.96,-7.818,"260001",Recife
+"2606903",Iguaracy,PE,838.132,-37.403,-7.846,"260014",Afogados da Ingazeira
+"2607000",Inajá,PE,1168.158,-37.846,-8.808,"260011",Arcoverde
+"2607109",Ingazeira,PE,243.586,-37.416,-7.714,"260014",Afogados da Ingazeira
+"2607208",Ipojuca,PE,521.801,-35.089,-8.437,"260001",Recife
+"2607307",Ipubi,PE,693.914,-40.217,-7.498,"260016",Araripina
+"2607406",Itacuruba,PE,430.038,-38.729,-8.749,"260017",Salgueiro
+"2607505",Itaíba,PE,1061.694,-37.296,-8.984,"260011",Arcoverde
+"2607604",Ilha de Itamaracá,PE,66.146,-34.854,-7.76,"260001",Recife
+"2607653",Itambé,PE,304.006,-35.134,-7.45,"260002",Goiana – Timbaúba
+"2607703",Itapetim,PE,404.85,-37.143,-7.398,"260014",Afogados da Ingazeira
+"2607752",Itapissuma,PE,73.968,-34.907,-7.745,"260001",Recife
+"2607802",Itaquitinga,PE,162.739,-35.033,-7.686,"260002",Goiana – Timbaúba
+"2607901",Jaboatão dos Guararapes,PE,258.724,-35.003,-8.152,"260001",Recife
+"2607950",Jaqueira,PE,87.208,-35.808,-8.743,"260003",Palmares
+"2608008",Jataúba,PE,714.601,-36.534,-8.055,"260009",Caruaru
+"2608057",Jatobá,PE,277.862,-38.214,-9.208,"260013",Serra Talhada
+"2608107",João Alfredo,PE,134.147,-35.592,-7.861,"260004",Limoeiro
+"2608206",Joaquim Nabuco,PE,121.901,-35.544,-8.562,"260003",Palmares
+"2608255",Jucati,PE,120.604,-36.46,-8.744,"260010",Garanhuns
+"2608305",Jupi,PE,104.994,-36.394,-8.715,"260010",Garanhuns
+"2608404",Jurema,PE,148.254,-36.143,-8.755,"260010",Garanhuns
+"2608453",Lagoa do Carro,PE,69.666,-35.337,-7.853,"260006",Carpina
+"2608503",Lagoa de Itaenga,PE,56.131,-35.295,-7.909,"260006",Carpina
+"2608602",Lagoa do Ouro,PE,198.762,-36.465,-9.162,"260010",Garanhuns
+"2608701",Lagoa dos Gatos,PE,224.947,-35.896,-8.682,"260009",Caruaru
+"2608750",Lagoa Grande,PE,1850.07,-40.223,-8.777,"260015",Petrolina
+"2608800",Lajedo,PE,189.096,-36.286,-8.678,"260010",Garanhuns
+"2608909",Limoeiro,PE,273.733,-35.448,-7.848,"260004",Limoeiro
+"2609006",Macaparana,PE,108.049,-35.45,-7.528,"260002",Goiana – Timbaúba
+"2609105",Machados,PE,60.036,-35.5,-7.705,"260004",Limoeiro
+"2609154",Manari,PE,344.725,-37.554,-8.893,"260011",Arcoverde
+"2609204",Maraial,PE,199.865,-35.762,-8.834,"260003",Palmares
+"2609303",Mirandiba,PE,821.676,-38.736,-8.158,"260013",Serra Talhada
+"2609402",Moreno,PE,196.073,-35.147,-8.144,"260001",Recife
+"2609501",Nazaré da Mata,PE,130.572,-35.233,-7.737,"260006",Carpina
+"2609600",Olinda,PE,41.3,-34.866,-7.993,"260001",Recife
+"2609709",Orobó,PE,138.662,-35.599,-7.706,"260004",Limoeiro
+"2609808",Orocó,PE,554.76,-39.591,-8.472,"260015",Petrolina
+"2609907",Ouricuri,PE,2381.57,-40.164,-7.966,"260016",Araripina
+"2610004",Palmares,PE,339.291,-35.63,-8.657,"260003",Palmares
+"2610103",Palmeirina,PE,168.796,-36.278,-9.011,"260010",Garanhuns
+"2610202",Panelas,PE,380.428,-36.049,-8.665,"260009",Caruaru
+"2610301",Paranatama,PE,185.371,-36.707,-8.894,"260010",Garanhuns
+"2610400",Parnamirim,PE,2609.548,-39.77,-8.16,"260017",Salgueiro
+"2610509",Passira,PE,326.758,-35.546,-8.012,"260004",Limoeiro
+"2610608",Paudalho,PE,269.651,-35.155,-7.906,"260001",Recife
+"2610707",Paulista,PE,96.932,-34.883,-7.928,"260001",Recife
+"2610806",Pedra,PE,921.477,-36.9,-8.697,"260011",Arcoverde
+"2610905",Pesqueira,PE,980.876,-36.739,-8.391,"260012",Belo Jardim – Pesqueira
+"2611002",Petrolândia,PE,1056.592,-38.308,-8.899,"260013",Serra Talhada
+"2611101",Petrolina,PE,4561.87,-40.572,-9.02,"260015",Petrolina
+"2611200",Poção,PE,204.329,-36.712,-8.225,"260012",Belo Jardim – Pesqueira
+"2611309",Pombos,PE,239.876,-35.387,-8.182,"260005",Vitória de Santo Antão
+"2611408",Primavera,PE,113.112,-35.391,-8.327,"260018",Escada - Ribeirão
+"2611507",Quipapá,PE,230.617,-36.029,-8.836,"260010",Garanhuns
+"2611533",Quixaba,PE,210.705,-37.849,-7.718,"260014",Afogados da Ingazeira
+"2611606",Recife,PE,218.843,-34.933,-8.039,"260001",Recife
+"2611705",Riacho das Almas,PE,314.003,-35.883,-8.082,"260009",Caruaru
+"2611804",Ribeirão,PE,289.733,-35.367,-8.505,"260018",Escada - Ribeirão
+"2611903",Rio Formoso,PE,227.458,-35.218,-8.675,"260007",Barreiros - Sirinhaém
+"2612000",Sairé,PE,190.455,-35.684,-8.303,"260009",Caruaru
+"2612109",Salgadinho,PE,87.217,-35.594,-7.916,"260004",Limoeiro
+"2612208",Salgueiro,PE,1678.564,-39.09,-8.129,"260017",Salgueiro
+"2612307",Saloá,PE,251.549,-36.739,-8.992,"260010",Garanhuns
+"2612406",Sanharó,PE,268.686,-36.55,-8.365,"260012",Belo Jardim – Pesqueira
+"2612455",Santa Cruz,PE,1245.983,-40.302,-8.291,"260016",Araripina
+"2612471",Santa Cruz da Baixa Verde,PE,114.932,-38.176,-7.849,"260013",Serra Talhada
+"2612505",Santa Cruz do Capibaribe,PE,335.309,-36.325,-7.89,"260009",Caruaru
+"2612554",Santa Filomena,PE,1005.341,-40.571,-8.224,"260016",Araripina
+"2612604",Santa Maria da Boa Vista,PE,3000.774,-39.914,-8.63,"260015",Petrolina
+"2612703",Santa Maria do Cambucá,PE,92.148,-35.883,-7.825,"260008",Surubim
+"2612802",Santa Terezinha,PE,200.327,-37.437,-7.43,"260014",Afogados da Ingazeira
+"2612901",São Benedito do Sul,PE,160.477,-35.907,-8.809,"260003",Palmares
+"2613008",São Bento do Una,PE,719.148,-36.451,-8.536,"260012",Belo Jardim – Pesqueira
+"2613107",São Caitano,PE,382.483,-36.148,-8.329,"260009",Caruaru
+"2613206",São João,PE,258.334,-36.378,-8.88,"260010",Garanhuns
+"2613305",São Joaquim do Monte,PE,232.07,-35.843,-8.455,"260009",Caruaru
+"2613404",São José da Coroa Grande,PE,69.184,-35.185,-8.865,"260007",Barreiros - Sirinhaém
+"2613503",São José do Belmonte,PE,1474.086,-38.746,-7.866,"260013",Serra Talhada
+"2613602",São José do Egito,PE,780.852,-37.273,-7.526,"260014",Afogados da Ingazeira
+"2613701",São Lourenço da Mata,PE,264.19,-35.104,-8.023,"260001",Recife
+"2613800",São Vicente Férrer,PE,113.985,-35.49,-7.606,"260002",Goiana – Timbaúba
+"2613909",Serra Talhada,PE,2980.007,-38.37,-8.036,"260013",Serra Talhada
+"2614006",Serrita,PE,1535.19,-39.382,-7.85,"260017",Salgueiro
+"2614105",Sertânia,PE,2421.527,-37.337,-8.211,"260011",Arcoverde
+"2614204",Sirinhaém,PE,374.321,-35.172,-8.572,"260007",Barreiros - Sirinhaém
+"2614303",Moreilândia,PE,404.287,-39.523,-7.618,"260016",Araripina
+"2614402",Solidão,PE,138.398,-37.651,-7.585,"260014",Afogados da Ingazeira
+"2614501",Surubim,PE,252.896,-35.755,-7.892,"260008",Surubim
+"2614600",Tabira,PE,390.434,-37.513,-7.578,"260014",Afogados da Ingazeira
+"2614709",Tacaimbó,PE,227.601,-36.27,-8.348,"260012",Belo Jardim – Pesqueira
+"2614808",Tacaratu,PE,1264.532,-38.076,-8.957,"260013",Serra Talhada
+"2614857",Tamandaré,PE,213.75,-35.23,-8.746,"260007",Barreiros - Sirinhaém
+"2615003",Taquaritinga do Norte,PE,475.184,-36.13,-7.869,"260009",Caruaru
+"2615102",Terezinha,PE,151.45,-36.631,-9.078,"260010",Garanhuns
+"2615201",Terra Nova,PE,318.709,-39.397,-8.158,"260017",Salgueiro
+"2615300",Timbaúba,PE,287.683,-35.342,-7.535,"260002",Goiana – Timbaúba
+"2615409",Toritama,PE,25.704,-36.056,-7.999,"260009",Caruaru
+"2615508",Tracunhaém,PE,137.321,-35.161,-7.76,"260006",Carpina
+"2615607",Trindade,PE,295.765,-40.295,-7.728,"260016",Araripina
+"2615706",Triunfo,PE,191.518,-38.067,-7.85,"260013",Serra Talhada
+"2615805",Tupanatinga,PE,950.474,-37.28,-8.684,"260011",Arcoverde
+"2615904",Tuparetama,PE,189.509,-37.263,-7.686,"260014",Afogados da Ingazeira
+"2616001",Venturosa,PE,335.482,-36.805,-8.615,"260011",Arcoverde
+"2616100",Verdejante,PE,476.039,-38.989,-7.976,"260017",Salgueiro
+"2616183",Vertente do Lério,PE,73.631,-35.815,-7.778,"260008",Surubim
+"2616209",Vertentes,PE,196.325,-35.982,-7.89,"260008",Surubim
+"2616308",Vicência,PE,228.017,-35.357,-7.66,"260002",Goiana – Timbaúba
+"2616407",Vitória de Santo Antão,PE,335.942,-35.288,-8.15,"260005",Vitória de Santo Antão
+"2616506",Xexéu,PE,110.815,-35.653,-8.836,"260003",Palmares
